@@ -1,0 +1,423 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "cut_girl",
+      "image": "https://i.pinimg.com/236x/11/4b/5a/114b5af571d6daa015b9871868fad67e.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    [
+    {
+        "id": "186406872068422422",
+        "name_category": "cut_girl",
+        "title": "cut girl1",
+        "image": "https://i.pinimg.com/236x/11/4b/5a/114b5af571d6daa015b9871868fad67e.jpg"
+    },
+    {
+        "id": "445293481930858277",
+        "name_category": "cut_girl",
+        "title": "cut girl2",
+        "image": "https://i.pinimg.com/236x/2f/a2/7e/2fa27e21ac6f25f2dafa2422c4f73680.jpg"
+    },
+    {
+        "id": "17803361021212542",
+        "name_category": "cut_girl",
+        "title": "cut girl3",
+        "image": "https://i.pinimg.com/236x/ff/b8/91/ffb891fe48397e45b05fa051298f9679.jpg"
+    },
+    {
+        "id": "477874210455205077",
+        "name_category": "cut_girl",
+        "title": "cut girl4",
+        "image": "https://i.pinimg.com/236x/50/95/8f/50958f9d8c9fe199acf64cc29fb10be4--kids-short-haircuts-little-girl-short-hairstyles.jpg"
+    },
+    {
+        "id": "252131279130256798",
+        "name_category": "cut_girl",
+        "title": "cut girl5",
+        "image": "https://i.pinimg.com/236x/87/97/0a/87970aee86ebd8f8ef72db7cd59a0a1f.jpg"
+    },
+    {
+        "id": "21744010689631325",
+        "name_category": "cut_girl",
+        "title": "cut girl6",
+        "image": "https://i.pinimg.com/236x/f3/12/a2/f312a27bb5ec5125e98d51ec6e39780a.jpg"
+    },
+    {
+        "id": "428404983313885822",
+        "name_category": "cut_girl",
+        "title": "cut girl7",
+        "image": "https://i.pinimg.com/236x/f0/41/db/f041db675016ecc39bb2d8a58c5e60d8.jpg"
+    },
+    {
+        "id": "300826450120948522",
+        "name_category": "cut_girl",
+        "title": "cut girl8",
+        "image": "https://i.pinimg.com/236x/ef/12/c7/ef12c79221f54437483e4b1278de7add.jpg"
+    },
+    {
+        "id": "799811215087879575",
+        "name_category": "cut_girl",
+        "title": "cut girl9",
+        "image": "https://i.pinimg.com/236x/1a/ad/4c/1aad4c785ba69ae67d82292c7cbcabe5.jpg"
+    },
+    {
+        "id": "484559241168669009",
+        "name_category": "cut_girl",
+        "title": "cut girl10",
+        "image": "https://i.pinimg.com/236x/0f/9d/5c/0f9d5c0262f25f4eb3be0974a8eb8928.jpg"
+    },
+    {
+        "id": "18295942225824398",
+        "name_category": "cut_girl",
+        "title": "cut girl11",
+        "image": "https://i.pinimg.com/236x/3e/7d/9b/3e7d9b9e257c5217c7ee3f90a3781c97.jpg"
+    },
+    {
+        "id": "711709547352916706",
+        "name_category": "cut_girl",
+        "title": "cut girl12",
+        "image": "https://i.pinimg.com/originals/f6/47/39/f6473929fa311f65796fb61e4602cc0c.jpg"
+    },
+    {
+        "id": "711709547352915291",
+        "name_category": "cut_girl",
+        "title": "cut girl13",
+        "image": "https://i.pinimg.com/originals/c6/5c/10/c65c108c2cf9383960406b93d58ed396.jpg"
+    },
+    {
+        "id": "711709547352881995",
+        "name_category": "cut_girl",
+        "title": "cut girl14",
+        "image": "https://i.pinimg.com/originals/05/ef/96/05ef96bff08d3c985ce75740dfff0008.jpg"
+    },
+    {
+        "id": "711709547352880687",
+        "name_category": "cut_girl",
+        "title": "cut girl15",
+        "image": "https://i.pinimg.com/originals/54/72/b0/5472b0d096adae0fb891537261af6e8e.jpg"
+    },
+    {
+        "id": "711709547351955904",
+        "name_category": "cut_girl",
+        "title": "cut girl16",
+        "image": "https://i.pinimg.com/originals/0f/fc/23/0ffc236daaf1bc33d8bf2f43f25130cc.jpg"
+    },
+    {
+        "id": "711709547351955879",
+        "name_category": "cut_girl",
+        "title": "cut girl17",
+        "image": "https://i.pinimg.com/originals/c7/54/07/c75407666e16b7cd8a57c24369b256fb.jpg"
+    },
+    {
+        "id": "711709547344685757",
+        "name_category": "cut_girl",
+        "title": "cut girl18",
+        "image": "https://i.pinimg.com/originals/e3/6a/5d/e36a5da7218c90705d1b701648143d58.jpg"
+    },
+    {
+        "id": "711709547344032572",
+        "name_category": "cut_girl",
+        "title": "cut girl19",
+        "image": "https://i.pinimg.com/originals/c1/ff/cb/c1ffcbc74a93f68bc84e3ad65c1ec9e4.jpg"
+    },
+    {
+        "id": "711709547343826741",
+        "name_category": "cut_girl",
+        "title": "cut girl20",
+        "image": "https://i.pinimg.com/originals/d0/2d/5e/d02d5efc4325b4a5ac7f2369f242d300.jpg"
+    },
+    {
+        "id": "711709547343802456",
+        "name_category": "cut_girl",
+        "title": "cut girl21",
+        "image": "https://i.pinimg.com/originals/b0/b4/c7/b0b4c7de7cf54b8b1a3173b40c0db2eb.jpg"
+    },
+    {
+        "id": "711709547343771971",
+        "name_category": "cut_girl",
+        "title": "cut girl22",
+        "image": "https://i.pinimg.com/originals/dc/3e/c8/dc3ec85c35e17cd50f046b528a42bdee.jpg"
+    },
+    {
+        "id": "711709547343771967",
+        "name_category": "cut_girl",
+        "title": "cut girl23",
+        "image": "https://i.pinimg.com/originals/dc/3e/c8/dc3ec85c35e17cd50f046b528a42bdee.jpg"
+    },
+    {
+        "id": "711709547343624663",
+        "name_category": "cut_girl",
+        "title": "cut girl24",
+        "image": "https://i.pinimg.com/originals/8f/60/b3/8f60b32ba9714c9529baab07ca116cef.jpg"
+    },
+    {
+        "id": "711709547343582871",
+        "name_category": "cut_girl",
+        "title": "cut girl25",
+        "image": "https://i.pinimg.com/originals/28/28/11/2828112e8bcb98df469d03c7fd7abad7.jpg"
+    },
+    {
+        "id": "711709547343582865",
+        "name_category": "cut_girl",
+        "title": "cut girl26",
+        "image": "https://i.pinimg.com/originals/01/ce/c2/01cec25d54320d1d33a6442814e94617.jpg"
+    },
+    {
+        "id": "711709547343548252",
+        "name_category": "cut_girl",
+        "title": "cut girl27",
+        "image": "https://i.pinimg.com/originals/cb/35/fc/cb35fc7691bf256e549167ae539b5935.jpg"
+    },
+    {
+        "id": "711709547343506041",
+        "name_category": "cut_girl",
+        "title": "cut girl28",
+        "image": "https://i.pinimg.com/originals/41/e4/9d/41e49d93b36b44ee0be1f98d48545326.jpg"
+    },
+    {
+        "id": "711709547343466677",
+        "name_category": "cut_girl",
+        "title": "cut girl29",
+        "image": "https://i.pinimg.com/originals/0c/df/13/0cdf13880bb09e1f01924605515d0d05.jpg"
+    },
+    {
+        "id": "711709547343380258",
+        "name_category": "cut_girl",
+        "title": "cut girl30",
+        "image": "https://i.pinimg.com/originals/20/02/d8/2002d8da6ef0b229c62ffb0a9d41cebe.jpg"
+    },
+    {
+        "id": "711709547343380257",
+        "name_category": "cut_girl",
+        "title": "cut girl31",
+        "image": "https://i.pinimg.com/originals/83/35/65/833565ac447ecd178f2e720da531a01d.jpg"
+    },
+    {
+        "id": "711709547343380228",
+        "name_category": "cut_girl",
+        "title": "cut girl32",
+        "image": "https://i.pinimg.com/originals/c2/54/33/c254336576ccbe9f72880106f67f0cec.jpg"
+    },
+    {
+        "id": "711709547343363731",
+        "name_category": "cut_girl",
+        "title": "cut girl33",
+        "image": "https://i.pinimg.com/originals/0d/ed/21/0ded2103e07fff86157d74b455470284.jpg"
+    },
+    {
+        "id": "711709547343361757",
+        "name_category": "cut_girl",
+        "title": "cut girl34",
+        "image": "https://i.pinimg.com/originals/f2/a2/2d/f2a22d34cf3a4d62fe3201cc8d6e8efb.jpg"
+    },
+    {
+        "id": "711709547343361699",
+        "name_category": "cut_girl",
+        "title": "cut girl35",
+        "image": "https://i.pinimg.com/originals/1f/ef/aa/1fefaa7e58966712b7d54f5f978842c6.jpg"
+    },
+    {
+        "id": "711709547343361646",
+        "name_category": "cut_girl",
+        "title": "cut girl36",
+        "image": "https://i.pinimg.com/originals/af/4d/a9/af4da96f7a1834a7f2ae3983e7f9ad46.jpg"
+    },
+    {
+        "id": "517914025896919714",
+        "name_category": "cut_girl",
+        "title": "cut girl37",
+        "image": "https://i.pinimg.com/236x/db/af/07/dbaf07bb77064e4728bf419585dfccab--girl-haircuts-hair-cuts.jpg"
+    },
+    {
+        "id": "656540451944079939",
+        "name_category": "cut_girl",
+        "title": "cut girl38",
+        "image": "https://i.pinimg.com/236x/d4/98/bb/d498bb16eef9002fbdb42c291b1ca0b1.jpg"
+    },
+    {
+        "id": "399835273179866486",
+        "name_category": "cut_girl",
+        "title": "cut girl39",
+        "image": "https://i.pinimg.com/236x/ad/ba/4a/adba4a299fffaaac25266c5eee9cc113.jpg"
+    },
+    {
+        "id": "422282902545110395",
+        "name_category": "cut_girl",
+        "title": "cut girl40",
+        "image": "https://i.pinimg.com/236x/1b/3f/8d/1b3f8d52b271404c1a9fc3cc35300e40--cute-girl-haircuts-haircuts-for-little-girls.jpg"
+    },
+    {
+        "id": "387802217890077275",
+        "name_category": "cut_girl",
+        "title": "cut girl41",
+        "image": "https://i.pinimg.com/236x/0a/59/2d/0a592d0b567765c5ed7f83deed4d6d0f--haircolor-balayage-hair.jpg"
+    },
+    {
+        "id": "571675746462340605",
+        "name_category": "cut_girl",
+        "title": "cut girl42",
+        "image": "https://i.pinimg.com/236x/38/46/02/38460272ba81dbd4313669510d43da05.jpg"
+    },
+    {
+        "id": "634163191295900197",
+        "name_category": "cut_girl",
+        "title": "cut girl43",
+        "image": "https://i.pinimg.com/236x/ce/72/4b/ce724bc31b634b3a96535b6db2bf4258.jpg"
+    },
+    {
+        "id": "70437474910937",
+        "name_category": "cut_girl",
+        "title": "cut girl44",
+        "image": "https://i.pinimg.com/236x/de/91/83/de9183728e963dee401fba7bbcac9d08--little-girl-haircuts-haircuts-for-girls.jpg"
+    },
+    {
+        "id": "857161741588760848",
+        "name_category": "cut_girl",
+        "title": "cut girl45",
+        "image": "https://i.pinimg.com/236x/9c/21/c2/9c21c28c8557409ff8de998c1921c270.jpg"
+    },
+    {
+        "id": "15199717484883051",
+        "name_category": "cut_girl",
+        "title": "cut girl46",
+        "image": "https://i.pinimg.com/236x/ca/52/bb/ca52bbc178dd7237e5829154aed521e7.jpg"
+    },
+    {
+        "id": "762797255616230409",
+        "name_category": "cut_girl",
+        "title": "cut girl47",
+        "image": "https://i.pinimg.com/originals/4f/f0/06/4ff006ff141d426e4563338fe4342c2b.jpg"
+    },
+    {
+        "id": "633318766368848303",
+        "name_category": "cut_girl",
+        "title": "cut girl48",
+        "image": "https://i.pinimg.com/236x/58/11/c7/5811c700e6300cc957ecdd166aea7852.jpg"
+    },
+    {
+        "id": "643170390547747716",
+        "name_category": "cut_girl",
+        "title": "cut girl49",
+        "image": "https://i.pinimg.com/236x/79/d3/22/79d3221cdd21f7595d82e4f2943c062f.jpg"
+    },
+    {
+        "id": "633318766368257987",
+        "name_category": "cut_girl",
+        "title": "cut girl50",
+        "image": "https://i.pinimg.com/236x/ca/57/6f/ca576fe33ee877e7e157a78115b20a62.jpg"
+    },
+    {
+        "id": "408560997452503056",
+        "name_category": "cut_girl",
+        "title": "cut girl51",
+        "image": "https://i.pinimg.com/236x/6c/aa/89/6caa893477b322a068fd6c3fa94b8f54.jpg"
+    },
+    {
+        "id": "739364463837696799",
+        "name_category": "cut_girl",
+        "title": "cut girl52",
+        "image": "https://i.pinimg.com/236x/63/b3/4a/63b34aebda80cce7e76c0620354027cb.jpg"
+    },
+    {
+        "id": "18929260908319569",
+        "name_category": "cut_girl",
+        "title": "cut girl53",
+        "image": "https://i.pinimg.com/236x/1c/15/61/1c156119557b2dd0f1c3c8a28a932a1b--women-short-hair-short-hair-cuts.jpg"
+    },
+    {
+        "id": "110197522123195978",
+        "name_category": "cut_girl",
+        "title": "cut girl54",
+        "image": "https://i.pinimg.com/236x/d1/75/c8/d175c8506cd6393a0758e017760190af.jpg"
+    },
+    {
+        "id": "688980442993340235",
+        "name_category": "cut_girl",
+        "title": "cut girl55",
+        "image": "https://i.pinimg.com/236x/16/b0/4c/16b04c13e11068f928bbd549a5716c12.jpg"
+    },
+    {
+        "id": "791085490808356274",
+        "name_category": "cut_girl",
+        "title": "cut girl56",
+        "image": "https://i.pinimg.com/236x/6d/d4/1c/6dd41c53f0da1de889ee3c249c24269d.jpg"
+    },
+    {
+        "id": "308004062012956160",
+        "name_category": "cut_girl",
+        "title": "cut girl57",
+        "image": "https://i.pinimg.com/236x/09/06/57/090657d2db0b2be2de83542c7fbc5d4b.jpg"
+    },
+    {
+        "id": "247346204504527938",
+        "name_category": "cut_girl",
+        "title": "cut girl58",
+        "image": "https://i.pinimg.com/originals/05/a5/28/05a528304e05e4bca1261bd7ad4d2cab.jpg"
+    }
+]
+}
