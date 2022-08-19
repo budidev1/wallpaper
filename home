@@ -1,0 +1,278 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "251286854200888918",
+        "name_category": "home_luxulury",
+        "title": "home luxulury1",
+        "image": "https://i.pinimg.com/236x/7e/5d/e6/7e5de680a94438ef4fdc2f2f606b972c.jpg"
+    },
+    {
+        "id": "416794140522422088",
+        "name_category": "home_luxulury",
+        "title": "home luxulury2",
+        "image": "https://i.pinimg.com/236x/ef/44/f7/ef44f77d17302fd028c369f8c51cec7e.jpg"
+    },
+    {
+        "id": "291819250864612898",
+        "name_category": "home_luxulury",
+        "title": "home luxulury3",
+        "image": "https://i.pinimg.com/236x/3e/42/81/3e428177650a688716fc9444464781c5.jpg"
+    },
+    {
+        "id": "518336238370274453",
+        "name_category": "home_luxulury",
+        "title": "home luxulury4",
+        "image": "https://i.pinimg.com/236x/c7/94/9a/c7949a35b7659c93e4fcee63849f0606.jpg"
+    },
+    {
+        "id": "404972191502025906",
+        "name_category": "home_luxulury",
+        "title": "home luxulury5",
+        "image": "https://i.pinimg.com/236x/1d/83/e8/1d83e8b998b85179367d9ee2fbfa5f4c.jpg"
+    },
+    {
+        "id": "300544975144575718",
+        "name_category": "home_luxulury",
+        "title": "home luxulury6",
+        "image": "https://i.pinimg.com/236x/19/b3/17/19b3172d8c95421f106c41a6dbdd5d8c.jpg"
+    },
+    {
+        "id": "478718635399819529",
+        "name_category": "home_luxulury",
+        "title": "home luxulury7",
+        "image": "https://i.pinimg.com/236x/f2/1d/d6/f21dd6bf16a135c97802847e3f35bf0a.jpg"
+    },
+    {
+        "id": "335729347235256097",
+        "name_category": "home_luxulury",
+        "title": "home luxulury8",
+        "image": "https://i.pinimg.com/236x/be/e4/c3/bee4c3e010eec28cfb8a2410d5723df1.jpg"
+    },
+    {
+        "id": "439452876149813107",
+        "name_category": "home_luxulury",
+        "title": "home luxulury9",
+        "image": "https://i.pinimg.com/236x/44/b8/17/44b8170f8da933fe6f2e0d51c6eb6f13.jpg"
+    },
+    {
+        "id": "460985711841822167",
+        "name_category": "home_luxulury",
+        "title": "home luxulury10",
+        "image": "https://i.pinimg.com/originals/4d/68/e1/4d68e171edd45ebf694239395bd005f7.jpg"
+    },
+    {
+        "id": "460985711841820947",
+        "name_category": "home_luxulury",
+        "title": "home luxulury11",
+        "image": "https://i.pinimg.com/originals/45/a1/85/45a185b9e68f4853c4fc22c18e37e902.jpg"
+    },
+    {
+        "id": "460985711841791078",
+        "name_category": "home_luxulury",
+        "title": "home luxulury12",
+        "image": "https://i.pinimg.com/originals/08/4a/c8/084ac825119f1161ff496f18d55fdb40.jpg"
+    },
+    {
+        "id": "460985711841634925",
+        "name_category": "home_luxulury",
+        "title": "home luxulury13",
+        "image": "https://i.pinimg.com/originals/16/9e/a7/169ea78788dc1304faac8244acee5d5c.jpg"
+    },
+    {
+        "id": "460985711841627264",
+        "name_category": "home_luxulury",
+        "title": "home luxulury14",
+        "image": "https://i.pinimg.com/originals/30/79/9b/30799b2de5065b150c5f40bbcd29fcad.jpg"
+    },
+    {
+        "id": "460985711841603265",
+        "name_category": "home_luxulury",
+        "title": "home luxulury15",
+        "image": "https://i.pinimg.com/originals/6e/eb/4b/6eeb4bdbed6699a33a0fe1684ce33687.jpg"
+    },
+    {
+        "id": "460985711841576169",
+        "name_category": "home_luxulury",
+        "title": "home luxulury16",
+        "image": "https://i.pinimg.com/originals/62/7f/7b/627f7b1961113f1b4b8f4decb94a47c6.jpg"
+    },
+    {
+        "id": "460985711841543679",
+        "name_category": "home_luxulury",
+        "title": "home luxulury17",
+        "image": "https://i.pinimg.com/originals/11/ed/9e/11ed9e63a5acacc8254fd5f49e447927.jpg"
+    },
+    {
+        "id": "460985711841520620",
+        "name_category": "home_luxulury",
+        "title": "home luxulury18",
+        "image": "https://i.pinimg.com/originals/42/60/12/426012abe3bdf5de796c1aa4439e52b3.jpg"
+    },
+    {
+        "id": "460985711841513297",
+        "name_category": "home_luxulury",
+        "title": "home luxulury19",
+        "image": "https://i.pinimg.com/originals/a1/ce/9c/a1ce9c318143170f5dc7ef13747bed75.jpg"
+    },
+    {
+        "id": "460985711841484886",
+        "name_category": "home_luxulury",
+        "title": "home luxulury20",
+        "image": "https://i.pinimg.com/originals/42/6e/d7/426ed7d7fcdd11cba604b88dd759d8f3.jpg"
+    },
+    {
+        "id": "460985711841472138",
+        "name_category": "home_luxulury",
+        "title": "home luxulury21",
+        "image": "https://i.pinimg.com/originals/89/d4/34/89d43421f5e5807acf6da8f9b7483894.jpg"
+    },
+    {
+        "id": "460985711841469503",
+        "name_category": "home_luxulury",
+        "title": "home luxulury22",
+        "image": "https://i.pinimg.com/originals/c8/c1/b3/c8c1b3f2329591db1d0b28e5d3d96f3f.jpg"
+    },
+    {
+        "id": "460985711841423415",
+        "name_category": "home_luxulury",
+        "title": "home luxulury23",
+        "image": "https://i.pinimg.com/originals/c3/9f/02/c39f024087dea485c2c0046bcf74b86e.jpg"
+    },
+    {
+        "id": "460985711841395249",
+        "name_category": "home_luxulury",
+        "title": "home luxulury24",
+        "image": "https://i.pinimg.com/originals/41/34/d4/4134d458e3a253a1c349ed7d9c642ae8.jpg"
+    },
+    {
+        "id": "460985711841378116",
+        "name_category": "home_luxulury",
+        "title": "home luxulury25",
+        "image": "https://i.pinimg.com/originals/42/1c/61/421c6121cbb9be3c8420c07384c0bbff.jpg"
+    },
+    {
+        "id": "460985711841374869",
+        "name_category": "home_luxulury",
+        "title": "home luxulury26",
+        "image": "https://i.pinimg.com/originals/fd/b6/fa/fdb6fa1573679345ddfa789b518f68e0.jpg"
+    },
+    {
+        "id": "460985711841367404",
+        "name_category": "home_luxulury",
+        "title": "home luxulury27",
+        "image": "https://i.pinimg.com/originals/46/6c/65/466c6505d30217cec8657c7b1cc4e058.jpg"
+    },
+    {
+        "id": "460985711841352658",
+        "name_category": "home_luxulury",
+        "title": "home luxulury28",
+        "image": "https://i.pinimg.com/originals/7d/aa/72/7daa725b0f9044e069670eb9c17ddd61.jpg"
+    },
+    {
+        "id": "460985711841331657",
+        "name_category": "home_luxulury",
+        "title": "home luxulury29",
+        "image": "https://i.pinimg.com/originals/d7/14/fe/d714fef3cd24094e547e14673cb3b8e4.jpg"
+    },
+    {
+        "id": "460985711841316194",
+        "name_category": "home_luxulury",
+        "title": "home luxulury30",
+        "image": "https://i.pinimg.com/originals/f4/8e/55/f48e553bb46f766f5cd08168360186af.jpg"
+    },
+    {
+        "id": "460985711841295179",
+        "name_category": "home_luxulury",
+        "title": "home luxulury31",
+        "image": "https://i.pinimg.com/originals/e0/1d/3a/e01d3afd1936d81cd7d6d7d42bcdfab8.jpg"
+    },
+    {
+        "id": "460985711841267014",
+        "name_category": "home_luxulury",
+        "title": "home luxulury32",
+        "image": "https://i.pinimg.com/originals/bf/89/15/bf8915fb7287173e9bd70daa3cafe6a2.jpg"
+    },
+    {
+        "id": "460985711841261039",
+        "name_category": "home_luxulury",
+        "title": "home luxulury33",
+        "image": "https://i.pinimg.com/originals/0a/94/11/0a9411cebd8de221a514bb125d1c5ba1.jpg"
+    },
+    {
+        "id": "460985711841205651",
+        "name_category": "home_luxulury",
+        "title": "home luxulury34",
+        "image": "https://i.pinimg.com/originals/54/bd/58/54bd588a3647c4755a74f52f8a8bc5dd.jpg"
+    }
+]
+}
