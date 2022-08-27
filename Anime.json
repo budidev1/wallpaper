@@ -3,13 +3,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-5496097028992857/7385735388",
-      "main_ads_intertitial":"ca-app-pub-5496097028992857/9962128960",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/2512682659",
+      "main_ads_banner": "ca-app-pub-5496097028992857/1159609514",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/9968037823",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/4715711147",
       "main_ads_rewards":"",
-      "backup_native_ads_Admob_or_applovin":"a43343a314e5af54",
-      "backup_ads_banner":"34be8aac28b46164",
-      "backup_ads_intertitial":"302e3e27fcd6508d",
+      "backup_native_ads_Admob_or_applovin":"1464a714b01f326a",
+      "backup_ads_banner":"	d27794ba82972e62",
+      "backup_ads_intertitial":"43ed5dccd6f56a59",
       "backup_ads_rewards":"",
       "interval_intertitial":3,
       "initialize_sdk":"",
@@ -52,19 +52,6 @@
       "id": 1,
       "name_category": "anime",
       "image": "https://i.pinimg.com/236x/be/66/f0/be66f01d5106f477a6d1f6021c5617b5.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
     }
   ],
 
