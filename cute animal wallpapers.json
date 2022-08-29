@@ -51,24 +51,22 @@
     {
       "id": 1,
       "name_category": "wallpaper_lion",
-      "image": "https://i.pinimg.com/236x/9f/35/d4/9f35d4ed9d2fa39464c9e3a63f92dc33"
-
+      "image":"https://i.pinimg.com/236x/6f/11/19/6f111921263537f3690f235b353e1f98.jpg"
     },
     {
       "id": 2,
       "name_category": "tiger",
-      "image": "https://i.pinimg.com/236x/52/91/cf/5291cf756d15a62f4b8b717e154ca37e.jpg"
-
+      "image": "https://i.pinimg.com/236x/81/ac/9e/81ac9eb2ffd6256aa7d8bd81e22b298a.jpg"
     },
     {
       "id": 3,
-      "name_category": "cute cat wallpapers",
-      "image": "https://i.pinimg.com/236x/04/1e/d0/041ed07905aa8dbf8e118998d3b3b053.jpg"
+      "name_category": "cute_cat_wallpapers",
+      "image": "https://i.pinimg.com/236x/1a/cd/32/1acd326b410f19be2340fd7cc521811c.jpg"
     },
     {
       "id": 4,
-      "name_category": "cute bunny",
-      "image": "https://i.pinimg.com/236x/e6/d6/be/e6d6be5f2485a895a5376e4873a51445.jpg"
+      "name_category": "cute_bunny",
+      "image": "https://i.pinimg.com/236x/19/b1/f3/19b1f32998f6bb553e4cee8cbc804ec3.jpg"
     }
   ],
 
