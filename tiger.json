@@ -3,13 +3,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-5496097028992857/3267754330",
-      "main_ads_intertitial":"ca-app-pub-5496097028992857/5555577142",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/6634237986",
+      "main_ads_banner": "ca-app-pub-5496097028992857/5913683688",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/7035193661",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/9469785312",
       "main_ads_rewards":"",
-      "backup_native_ads_Admob_or_applovin":"a858b2f317581b70",
-      "backup_ads_banner":"a3c21ac047a06358",
-      "backup_ads_intertitial":"b4fb725b11d2c6dd",
+      "backup_native_ads_Admob_or_applovin":"aa7c383ab8ddb0ea",
+      "backup_ads_banner":"09afa258b7fbcf7f",
+      "backup_ads_intertitial":"f210fc1852bcaa08",
       "backup_ads_rewards":"",
       "interval_intertitial":3,
       "initialize_sdk":"",
@@ -50,20 +50,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "tiger",
+      "image": "https://i.pinimg.com/236x/52/91/cf/5291cf756d15a62f4b8b717e154ca37e.jpg"
 
     }
   ],
