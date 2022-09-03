@@ -1,3 +1,62 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/9226984993",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/7913903323",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/3974658315",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/9035413302",
+      "backup_native_ads_Admob_or_applovin":"cf042abd993fbb36",
+      "backup_ads_banner":"16ec23f901e2e2cc",
+      "backup_ads_intertitial":"60214abae1ce3b72",
+      "backup_ads_rewards":"f7508d6d1ec65ad9",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "tiger",
+      "image": "https://i.pinimg.com/236x/52/91/cf/5291cf756d15a62f4b8b717e154ca37e.jpg"
+
+    }
+  ],
+
+  "Data":
 [
     {
         "id": "720857484118813599",
@@ -630,3 +689,4 @@
         "image": "https://i.pinimg.com/originals/ff/47/33/ff473398177b52b76d50656e7647e70f.jpg"
     }
 ]
+}
