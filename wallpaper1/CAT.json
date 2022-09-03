@@ -2,18 +2,18 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_ads_Admob_or_applovin":"",
-      "main_ads_rewards":"",
-      "backup_native_ads_Admob_or_applovin":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
-      "interval_intertitial": 5,
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/6079151905",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/1420887443",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/2383164060",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/4382926856",
+      "backup_native_ads_Admob_or_applovin":"3d5727614d01a908",
+      "backup_ads_banner":"77190a5566747e41",
+      "backup_ads_intertitial":"eee99036f5455b7b",
+      "backup_ads_rewards":"5ab48c676a4e912e",
+      "interval_intertitial":3,
       "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
       "survey_api_key":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -50,20 +50,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "cat",
+      "image": "https://i.pinimg.com/236x/87/a8/a3/87a8a378128df67cc09df6eda20be10f.jpg"
 
     }
   ],
