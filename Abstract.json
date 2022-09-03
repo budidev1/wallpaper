@@ -3,14 +3,14 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-5496097028992857/9226984993",
-      "main_ads_intertitial":"ca-app-pub-5496097028992857/7913903323",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/3974658315",
-      "main_ads_rewards":"ca-app-pub-5496097028992857/9035413302",
-      "backup_native_ads_Admob_or_applovin":"bd7467ac286043b1",
-      "backup_ads_banner":"b48986f2f7985382",
-      "backup_ads_intertitial":"02f1c697b36562a2",
-      "backup_ads_rewards":"d1f25beba73d6f0e",
+      "main_ads_banner": "ca-app-pub-5496097028992857/3267754330",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/5555577142",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/6634237986",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"a858b2f317581b70",
+      "backup_ads_banner":"a3c21ac047a06358",
+      "backup_ads_intertitial":"b4fb725b11d2c6dd",
+      "backup_ads_rewards":"",
       "interval_intertitial":3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
@@ -47,7 +47,7 @@
     }
   ],
 
-   "Categories": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Nature",
@@ -69,7 +69,7 @@
   ],
 
   "Data":
-[
+  [
     {
         "id": "720857484118813599",
         "name_category": "abstract_wallpapers",
