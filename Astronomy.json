@@ -1,3 +1,62 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/9226984993",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/7913903323",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/3974658315",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/9035413302",
+      "backup_native_ads_Admob_or_applovin":"bd7467ac286043b1",
+      "backup_ads_banner":"b48986f2f7985382",
+      "backup_ads_intertitial":"02f1c697b36562a2",
+      "backup_ads_rewards":"d1f25beba73d6f0e",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "abstract_wallpapers",
+      "image": "https://i.pinimg.com/236x/cc/6c/8c/cc6c8cae06bab0b06bc3df0160b4e41b.jpg"
+
+    }
+  ],
+
+  "Data":
 [
     {
         "id": "648870258821873751",
@@ -552,3 +611,4 @@
         "image": "https://i.pinimg.com/originals/e1/87/0c/e1870cfee5e05fe14712c92ae9bbadeb.jpg"
     }
 ]
+}   
