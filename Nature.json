@@ -1,0 +1,476 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/2152232767",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/8566679449",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/6810497220",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/8526069424",
+      "backup_native_ads_Admob_or_applovin":"65254698deb4fb7a",
+      "backup_ads_banner":"	049532d2bdc9b81f",
+      "backup_ads_intertitial":"37d7faa8542a5a1d",
+      "backup_ads_rewards":"6213c197033e11c3",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "cute_dog_wallpapers",
+      "image": "https://i.pinimg.com/236x/fe/6b/39/fe6b395c077b67a8012b347fe557a0bf.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "676665912740956140",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers1",
+        "image": "https://i.pinimg.com/236x/ea/24/0b/ea240b0f1e01c2c19dc232931ebe46ee.jpg"
+    },
+    {
+        "id": "83879611801041400",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers2",
+        "image": "https://i.pinimg.com/236x/11/0e/bd/110ebd9866ad99dd12e4ffdbf9c19864.jpg"
+    },
+    {
+        "id": "923589836052069746",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers3",
+        "image": "https://i.pinimg.com/236x/3c/5b/d4/3c5bd49f31a0a0d745cf146ca54e537d.jpg"
+    },
+    {
+        "id": "604537949996288834",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers4",
+        "image": "https://i.pinimg.com/236x/f1/f8/39/f1f839cf6dff6d4133f13e43fdc5d446.jpg"
+    },
+    {
+        "id": "182818066111379192",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers5",
+        "image": "https://i.pinimg.com/236x/d2/42/13/d2421357f50e43fd51a05162eb81f725.jpg"
+    },
+    {
+        "id": "330662797652036087",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers6",
+        "image": "https://i.pinimg.com/236x/6f/0e/2d/6f0e2d0b46a4483f21c9255bf3ee11ca.jpg"
+    },
+    {
+        "id": "725642558688050322",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers7",
+        "image": "https://i.pinimg.com/236x/a0/b0/cd/a0b0cdc40d6bd28045794c386698be90.jpg"
+    },
+    {
+        "id": "395964992245179916",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers8",
+        "image": "https://i.pinimg.com/originals/7a/7f/c0/7a7fc03d7db52e140bece0c3db9ddfd6.jpg"
+    },
+    {
+        "id": "395964992245179861",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers9",
+        "image": "https://i.pinimg.com/originals/d6/17/11/d61711d8f11970d4c6a6ac9e37db3d90.jpg"
+    },
+    {
+        "id": "395964992245179860",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers10",
+        "image": "https://i.pinimg.com/originals/eb/90/df/eb90df58c15a973f576b0490af99204b.jpg"
+    },
+    {
+        "id": "395964992245179830",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers11",
+        "image": "https://i.pinimg.com/originals/cd/c3/53/cdc353b9ca1ffdda50af4085910344a1.jpg"
+    },
+    {
+        "id": "395964992241521468",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers12",
+        "image": "https://i.pinimg.com/originals/08/22/2b/08222b7fc895a2e4ed77af2fc5eac9eb.jpg"
+    },
+    {
+        "id": "395964992226888383",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers13",
+        "image": "https://i.pinimg.com/originals/96/2f/2b/962f2bf1861b992350752848d68c5c2d.jpg"
+    },
+    {
+        "id": "395964992226888337",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers14",
+        "image": "https://i.pinimg.com/originals/1b/0d/17/1b0d1734d728775cd365e92df4c52e4e.jpg"
+    },
+    {
+        "id": "395964992225948846",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers15",
+        "image": "https://i.pinimg.com/originals/c7/c1/e0/c7c1e0022bb4217a2e043d534ccdc1e4.jpg"
+    },
+    {
+        "id": "395964992222301388",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers16",
+        "image": "https://i.pinimg.com/originals/25/02/ab/2502ab1720f56149e10e6bfc5e2288d9.png"
+    },
+    {
+        "id": "395964992221638264",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers17",
+        "image": "https://i.pinimg.com/originals/d1/7c/45/d17c45e08a7043fe91d752625aed9bf5.jpg"
+    },
+    {
+        "id": "395964992221568422",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers18",
+        "image": "https://i.pinimg.com/originals/02/8f/bb/028fbbc9d017e1c14b6865cfbdd0dd22.jpg"
+    },
+    {
+        "id": "395964992221568280",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers19",
+        "image": "https://i.pinimg.com/originals/27/25/00/272500e96507c1e5099b32b6c6527d33.jpg"
+    },
+    {
+        "id": "395964992221568272",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers20",
+        "image": "https://i.pinimg.com/originals/4b/62/86/4b62864d7aaf41ca8b8c8f85dc86c82b.jpg"
+    },
+    {
+        "id": "395964992221568271",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers21",
+        "image": "https://i.pinimg.com/originals/46/8e/71/468e711aa754e23a0cd51061d8f9fe6a.jpg"
+    },
+    {
+        "id": "395964992221568236",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers22",
+        "image": "https://i.pinimg.com/originals/f7/cc/3c/f7cc3caf5c673080ce79b634100dc737.jpg"
+    },
+    {
+        "id": "395964992221497478",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers23",
+        "image": "https://i.pinimg.com/originals/65/d4/8b/65d48b8692e8992e7d097f58767d71b1.jpg"
+    },
+    {
+        "id": "395964992221497481",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers24",
+        "image": "https://i.pinimg.com/originals/78/20/5a/78205aa638b62b4b6b097bd7a6011125.jpg"
+    },
+    {
+        "id": "395964992221480392",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers25",
+        "image": "https://i.pinimg.com/originals/34/8b/06/348b06df7318f5d334deec9cf46a889c.jpg"
+    },
+    {
+        "id": "395964992221363585",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers26",
+        "image": "https://i.pinimg.com/originals/f1/7b/3e/f17b3e6a0cb1660ec31b74928c8d432b.jpg"
+    },
+    {
+        "id": "395964992218139052",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers27",
+        "image": "https://i.pinimg.com/originals/02/82/02/028202f16387e275b888847c60261298.jpg"
+    },
+    {
+        "id": "395964992215515790",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers28",
+        "image": "https://i.pinimg.com/originals/d9/8a/92/d98a92f70747193a10a2affae9b657e7.jpg"
+    },
+    {
+        "id": "395964992213379812",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers29",
+        "image": "https://i.pinimg.com/originals/ab/4d/3c/ab4d3cb3f0d75c009bee5666f0579087.jpg"
+    },
+    {
+        "id": "395964992213379169",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers30",
+        "image": "https://i.pinimg.com/originals/91/6f/5c/916f5ced787703a1a12480631a319d95.jpg"
+    },
+    {
+        "id": "395964992213378547",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers31",
+        "image": "https://i.pinimg.com/originals/69/38/67/693867a56f18d54538d6a2798ba2563d.jpg"
+    },
+    {
+        "id": "395964992211959829",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers32",
+        "image": "https://i.pinimg.com/originals/07/4f/96/074f96179b4964504c4c4859f38dd788.jpg"
+    },
+    {
+        "id": "729160995919649615",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers33",
+        "image": "https://i.pinimg.com/236x/81/7a/d0/817ad0e59031f2f80d56684b40b7ac6d.jpg"
+    },
+    {
+        "id": "672795631846777060",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers34",
+        "image": "https://i.pinimg.com/236x/07/3b/a2/073ba2d3581776585c78b14fece6bd06.jpg"
+    },
+    {
+        "id": "124060164725000504",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers35",
+        "image": "https://i.pinimg.com/236x/03/4a/f9/034af93dc047d7669214dfd55cd18050.jpg"
+    },
+    {
+        "id": "715650197052442753",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers36",
+        "image": "https://i.pinimg.com/236x/eb/58/72/eb587281939caa81e0beacc13f3223ec.jpg"
+    },
+    {
+        "id": "47991552270142928",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers37",
+        "image": "https://i.pinimg.com/236x/7c/8c/65/7c8c65f5ad7ccc10dca6dc62d54e3bdd.jpg"
+    },
+    {
+        "id": "601863937716227999",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers38",
+        "image": "https://i.pinimg.com/236x/1b/32/57/1b325774312edb11cd160fe0db83faa6.jpg"
+    },
+    {
+        "id": "761460249494303970",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers39",
+        "image": "https://i.pinimg.com/236x/a3/d4/3f/a3d43fdd201ff9d938e80bdb2c89ef6a.jpg"
+    },
+    {
+        "id": "846817536172685984",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers40",
+        "image": "https://i.pinimg.com/236x/6c/4b/fd/6c4bfd02d3b5ff854e62eca4c1874bb3.jpg"
+    },
+    {
+        "id": "52917364361485796",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers41",
+        "image": "https://i.pinimg.com/236x/35/a4/96/35a496445de1ab48ebe3a382e36b30cf.jpg"
+    },
+    {
+        "id": "395964992245179916",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers42",
+        "image": "https://i.pinimg.com/originals/7a/7f/c0/7a7fc03d7db52e140bece0c3db9ddfd6.jpg"
+    },
+    {
+        "id": "395964992245179861",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers43",
+        "image": "https://i.pinimg.com/originals/d6/17/11/d61711d8f11970d4c6a6ac9e37db3d90.jpg"
+    },
+    {
+        "id": "395964992245179860",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers44",
+        "image": "https://i.pinimg.com/originals/eb/90/df/eb90df58c15a973f576b0490af99204b.jpg"
+    },
+    {
+        "id": "395964992245179830",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers45",
+        "image": "https://i.pinimg.com/originals/cd/c3/53/cdc353b9ca1ffdda50af4085910344a1.jpg"
+    },
+    {
+        "id": "395964992241521468",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers46",
+        "image": "https://i.pinimg.com/originals/08/22/2b/08222b7fc895a2e4ed77af2fc5eac9eb.jpg"
+    },
+    {
+        "id": "395964992226888383",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers47",
+        "image": "https://i.pinimg.com/originals/96/2f/2b/962f2bf1861b992350752848d68c5c2d.jpg"
+    },
+    {
+        "id": "395964992226888337",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers48",
+        "image": "https://i.pinimg.com/originals/1b/0d/17/1b0d1734d728775cd365e92df4c52e4e.jpg"
+    },
+    {
+        "id": "395964992225948846",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers49",
+        "image": "https://i.pinimg.com/originals/c7/c1/e0/c7c1e0022bb4217a2e043d534ccdc1e4.jpg"
+    },
+    {
+        "id": "395964992222301388",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers50",
+        "image": "https://i.pinimg.com/originals/25/02/ab/2502ab1720f56149e10e6bfc5e2288d9.png"
+    },
+    {
+        "id": "395964992221638264",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers51",
+        "image": "https://i.pinimg.com/originals/d1/7c/45/d17c45e08a7043fe91d752625aed9bf5.jpg"
+    },
+    {
+        "id": "395964992221568422",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers52",
+        "image": "https://i.pinimg.com/originals/02/8f/bb/028fbbc9d017e1c14b6865cfbdd0dd22.jpg"
+    },
+    {
+        "id": "395964992221568280",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers53",
+        "image": "https://i.pinimg.com/originals/27/25/00/272500e96507c1e5099b32b6c6527d33.jpg"
+    },
+    {
+        "id": "395964992221568272",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers54",
+        "image": "https://i.pinimg.com/originals/4b/62/86/4b62864d7aaf41ca8b8c8f85dc86c82b.jpg"
+    },
+    {
+        "id": "395964992221568271",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers55",
+        "image": "https://i.pinimg.com/originals/46/8e/71/468e711aa754e23a0cd51061d8f9fe6a.jpg"
+    },
+    {
+        "id": "395964992221568236",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers56",
+        "image": "https://i.pinimg.com/originals/f7/cc/3c/f7cc3caf5c673080ce79b634100dc737.jpg"
+    },
+    {
+        "id": "395964992221497478",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers57",
+        "image": "https://i.pinimg.com/originals/65/d4/8b/65d48b8692e8992e7d097f58767d71b1.jpg"
+    },
+    {
+        "id": "395964992221497481",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers58",
+        "image": "https://i.pinimg.com/originals/78/20/5a/78205aa638b62b4b6b097bd7a6011125.jpg"
+    },
+    {
+        "id": "395964992221480392",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers59",
+        "image": "https://i.pinimg.com/originals/34/8b/06/348b06df7318f5d334deec9cf46a889c.jpg"
+    },
+    {
+        "id": "395964992221363585",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers60",
+        "image": "https://i.pinimg.com/originals/f1/7b/3e/f17b3e6a0cb1660ec31b74928c8d432b.jpg"
+    },
+    {
+        "id": "395964992218139052",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers61",
+        "image": "https://i.pinimg.com/originals/02/82/02/028202f16387e275b888847c60261298.jpg"
+    },
+    {
+        "id": "395964992215515790",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers62",
+        "image": "https://i.pinimg.com/originals/d9/8a/92/d98a92f70747193a10a2affae9b657e7.jpg"
+    },
+    {
+        "id": "395964992213379812",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers63",
+        "image": "https://i.pinimg.com/originals/ab/4d/3c/ab4d3cb3f0d75c009bee5666f0579087.jpg"
+    },
+    {
+        "id": "395964992213379169",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers64",
+        "image": "https://i.pinimg.com/originals/91/6f/5c/916f5ced787703a1a12480631a319d95.jpg"
+    },
+    {
+        "id": "395964992213378547",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers65",
+        "image": "https://i.pinimg.com/originals/69/38/67/693867a56f18d54538d6a2798ba2563d.jpg"
+    },
+    {
+        "id": "395964992211959829",
+        "name_category": "nature_wallpapers",
+        "title": "nature wallpapers66",
+        "image": "https://i.pinimg.com/originals/07/4f/96/074f96179b4964504c4c4859f38dd788.jpg"
+    }
+]
+}  
