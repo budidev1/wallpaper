@@ -1,0 +1,482 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/7626268330",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/6611773405",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/9294573229",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/1799226584",
+      "backup_native_ads_Admob_or_applovin":"1e6aef772f93aec6",
+      "backup_ads_banner":"c63fdb99584cb838",
+      "backup_ads_intertitial":"50dd14f566417c06",
+      "backup_ads_rewards":"0ba14d4630876816",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+[
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "nature_wallpapers",
+      "image": "https://i.pinimg.com/236x/ea/24/0b/ea240b0f1e01c2c19dc232931ebe46ee.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "1020206121812424205",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers1",
+        "image": "https://i.pinimg.com/236x/72/19/2c/72192c7a70dd53357ebe283e332ea93d.jpg"
+    },
+    {
+        "id": "1012535928697661500",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers2",
+        "image": "https://i.pinimg.com/236x/63/27/c4/6327c4344a41ca776ea645d522a86917.jpg"
+    },
+    {
+        "id": "1143281055377975197",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers3",
+        "image": "https://i.pinimg.com/236x/37/7b/fa/377bfabda3dded35fb162cbdd084ccdf.jpg"
+    },
+    {
+        "id": "810507264204712871",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers4",
+        "image": "https://i.pinimg.com/236x/92/49/8c/92498cfaf46eff86a3840434d9f54c9b.jpg"
+    },
+    {
+        "id": "1099300590266348332",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers5",
+        "image": "https://i.pinimg.com/236x/6f/fb/64/6ffb64ea3a7e6fcd96dcea38dabb40df.jpg"
+    },
+    {
+        "id": "417216352990932361",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers6",
+        "image": "https://i.pinimg.com/236x/04/84/d7/0484d7ffccccb64931d54dc7460bb997.jpg"
+    },
+    {
+        "id": "415175659410571907",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers7",
+        "image": "https://i.pinimg.com/236x/04/60/0a/04600ad48f606b53abb8edca01014415.jpg"
+    },
+    {
+        "id": "648729521339862793",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers8",
+        "image": "https://i.pinimg.com/236x/78/c1/a4/78c1a469bb46f0c26259318fb95e3eef.jpg"
+    },
+    {
+        "id": "756464068677236336",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers9",
+        "image": "https://i.pinimg.com/originals/dc/0a/26/dc0a26ea15ff5f045b39867238a376b1.jpg"
+    },
+    {
+        "id": "756464068677122870",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers10",
+        "image": "https://i.pinimg.com/originals/27/1c/4c/271c4ca81f1e29016b5c946af09eab6b.png"
+    },
+    {
+        "id": "756464068676773516",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers11",
+        "image": "https://i.pinimg.com/originals/29/ab/cd/29abcd1f37f4a46c9b530d8a22f7231d.jpg"
+    },
+    {
+        "id": "756464068676773270",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers12",
+        "image": "https://i.pinimg.com/originals/2c/37/53/2c3753822b0afeb0d436bd51248d6d98.jpg"
+    },
+    {
+        "id": "756464068676081830",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers13",
+        "image": "https://i.pinimg.com/originals/01/8f/5a/018f5af9d0bb3166565d7725034ca370.jpg"
+    },
+    {
+        "id": "756464068675545732",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers14",
+        "image": "https://i.pinimg.com/originals/41/7f/ef/417fef323bd452fe5e9182350ca615cb.jpg"
+    },
+    {
+        "id": "756464068640613508",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers15",
+        "image": "https://i.pinimg.com/originals/46/28/c5/4628c58266b1266a3d428376a46ad28c.jpg"
+    },
+    {
+        "id": "756464068640515291",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers16",
+        "image": "https://i.pinimg.com/originals/9e/5c/41/9e5c41aa2a8c0e0d9cbe4b77eba9abab.jpg"
+    },
+    {
+        "id": "756464068637020522",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers17",
+        "image": "https://i.pinimg.com/originals/da/aa/8c/daaa8c3186f9bcda1ed36f466e9e983f.jpg"
+    },
+    {
+        "id": "756464068636712243",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers18",
+        "image": "https://i.pinimg.com/originals/4b/88/0c/4b880cdbe5f117600d7c328d1002ada5.jpg"
+    },
+    {
+        "id": "756464068636712221",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers19",
+        "image": "https://i.pinimg.com/originals/71/ed/b7/71edb7699cacd4a5be0c27a27e769871.jpg"
+    },
+    {
+        "id": "756464068636712204",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers20",
+        "image": "https://i.pinimg.com/originals/71/f4/19/71f41927f5a544abce0e559572a2a7d8.jpg"
+    },
+    {
+        "id": "756464068636712203",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers21",
+        "image": "https://i.pinimg.com/originals/4d/ab/1b/4dab1b05e5890407424399273540825c.jpg"
+    },
+    {
+        "id": "756464068636104903",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers22",
+        "image": "https://i.pinimg.com/originals/8d/41/17/8d411723fd0b2e125ac54579481e8c42.jpg"
+    },
+    {
+        "id": "756464068635608009",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers23",
+        "image": "https://i.pinimg.com/originals/c3/3e/f8/c33ef8e2196df780545e775270839896.jpg"
+    },
+    {
+        "id": "756464068635593666",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers24",
+        "image": "https://i.pinimg.com/originals/af/00/31/af0031e1f22d94e5e6209e091392cbc7.jpg"
+    },
+    {
+        "id": "756464068635562895",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers25",
+        "image": "https://i.pinimg.com/originals/97/39/c0/9739c06e52784f5dfadf2585fd301491.jpg"
+    },
+    {
+        "id": "756464068635538519",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers26",
+        "image": "https://i.pinimg.com/originals/fc/98/0f/fc980f3874fb6f9a9e87e572ed7d2bff.jpg"
+    },
+    {
+        "id": "756464068635538508",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers27",
+        "image": "https://i.pinimg.com/originals/4f/06/b5/4f06b56d28a3f143e2e9ba803f247a2b.jpg"
+    },
+    {
+        "id": "756464068635213144",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers28",
+        "image": "https://i.pinimg.com/originals/0e/10/44/0e1044c7c66fd06b730f70a0bd18e79f.jpg"
+    },
+    {
+        "id": "756464068635012694",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers29",
+        "image": "https://i.pinimg.com/originals/99/ee/3a/99ee3aac8d4a2a3190c7492914b2e413.jpg"
+    },
+    {
+        "id": "756464068635012688",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers30",
+        "image": "https://i.pinimg.com/originals/84/41/d0/8441d0f7fc52e984808e43a28645ff44.jpg"
+    },
+    {
+        "id": "756464068635012678",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers31",
+        "image": "https://i.pinimg.com/originals/d9/aa/83/d9aa83845b0c1549efd132fd3b59e416.jpg"
+    },
+    {
+        "id": "756464068635012670",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers32",
+        "image": "https://i.pinimg.com/originals/52/e9/c6/52e9c663da781271b20a7404122df854.jpg"
+    },
+    {
+        "id": "756464068635012664",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers33",
+        "image": "https://i.pinimg.com/originals/52/17/52/521752383d29aa74a63e83520b57be4a.png"
+    },
+    {
+        "id": "793900240575038909",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers34",
+        "image": "https://i.pinimg.com/236x/c9/23/28/c923289196d114983fd8c641076145f8.jpg"
+    },
+    {
+        "id": "581879214367486240",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers35",
+        "image": "https://i.pinimg.com/236x/64/65/35/646535af14645bd71cfbc57b8877647e.jpg"
+    },
+    {
+        "id": "202873158194217343",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers36",
+        "image": "https://i.pinimg.com/236x/33/77/1e/33771e615fba5c8c10289d9b41fbd1ed--valentine-hearts-valentines-day.jpg"
+    },
+    {
+        "id": "633952085062387065",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers37",
+        "image": "https://i.pinimg.com/236x/97/ff/51/97ff51f40e38c906057de0603d9329ee.jpg"
+    },
+    {
+        "id": "363173157454422947",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers38",
+        "image": "https://i.pinimg.com/236x/9b/54/cf/9b54cf22420d20ad8335dc215c6a8626.jpg"
+    },
+    {
+        "id": "140526450864058772",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers39",
+        "image": "https://i.pinimg.com/236x/b1/89/4f/b1894fe6ab035731acd3a7bc33748a57.jpg"
+    },
+    {
+        "id": "630644754072662069",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers40",
+        "image": "https://i.pinimg.com/236x/82/09/4d/82094db49a2d9e5f17dca8e85a8c1a65.jpg"
+    },
+    {
+        "id": "354799276896912036",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers41",
+        "image": "https://i.pinimg.com/236x/40/06/60/40066051ab3083bf2cafe2648c8bf17d.jpg"
+    },
+    {
+        "id": "152981718584574171",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers42",
+        "image": "https://i.pinimg.com/236x/c2/21/7d/c2217d33a7a1077dba9de3d20c2ef7f3.jpg"
+    },
+    {
+        "id": "756464068677236336",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers43",
+        "image": "https://i.pinimg.com/originals/dc/0a/26/dc0a26ea15ff5f045b39867238a376b1.jpg"
+    },
+    {
+        "id": "756464068677122870",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers44",
+        "image": "https://i.pinimg.com/originals/27/1c/4c/271c4ca81f1e29016b5c946af09eab6b.png"
+    },
+    {
+        "id": "756464068676773516",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers45",
+        "image": "https://i.pinimg.com/originals/29/ab/cd/29abcd1f37f4a46c9b530d8a22f7231d.jpg"
+    },
+    {
+        "id": "756464068676773270",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers46",
+        "image": "https://i.pinimg.com/originals/2c/37/53/2c3753822b0afeb0d436bd51248d6d98.jpg"
+    },
+    {
+        "id": "756464068676081830",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers47",
+        "image": "https://i.pinimg.com/originals/01/8f/5a/018f5af9d0bb3166565d7725034ca370.jpg"
+    },
+    {
+        "id": "756464068675545732",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers48",
+        "image": "https://i.pinimg.com/originals/41/7f/ef/417fef323bd452fe5e9182350ca615cb.jpg"
+    },
+    {
+        "id": "756464068640613508",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers49",
+        "image": "https://i.pinimg.com/originals/46/28/c5/4628c58266b1266a3d428376a46ad28c.jpg"
+    },
+    {
+        "id": "756464068640515291",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers50",
+        "image": "https://i.pinimg.com/originals/9e/5c/41/9e5c41aa2a8c0e0d9cbe4b77eba9abab.jpg"
+    },
+    {
+        "id": "756464068637020522",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers51",
+        "image": "https://i.pinimg.com/originals/da/aa/8c/daaa8c3186f9bcda1ed36f466e9e983f.jpg"
+    },
+    {
+        "id": "756464068636712243",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers52",
+        "image": "https://i.pinimg.com/originals/4b/88/0c/4b880cdbe5f117600d7c328d1002ada5.jpg"
+    },
+    {
+        "id": "756464068636712221",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers53",
+        "image": "https://i.pinimg.com/originals/71/ed/b7/71edb7699cacd4a5be0c27a27e769871.jpg"
+    },
+    {
+        "id": "756464068636712204",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers54",
+        "image": "https://i.pinimg.com/originals/71/f4/19/71f41927f5a544abce0e559572a2a7d8.jpg"
+    },
+    {
+        "id": "756464068636712203",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers55",
+        "image": "https://i.pinimg.com/originals/4d/ab/1b/4dab1b05e5890407424399273540825c.jpg"
+    },
+    {
+        "id": "756464068636104903",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers56",
+        "image": "https://i.pinimg.com/originals/8d/41/17/8d411723fd0b2e125ac54579481e8c42.jpg"
+    },
+    {
+        "id": "756464068635608009",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers57",
+        "image": "https://i.pinimg.com/originals/c3/3e/f8/c33ef8e2196df780545e775270839896.jpg"
+    },
+    {
+        "id": "756464068635593666",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers58",
+        "image": "https://i.pinimg.com/originals/af/00/31/af0031e1f22d94e5e6209e091392cbc7.jpg"
+    },
+    {
+        "id": "756464068635562895",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers59",
+        "image": "https://i.pinimg.com/originals/97/39/c0/9739c06e52784f5dfadf2585fd301491.jpg"
+    },
+    {
+        "id": "756464068635538519",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers60",
+        "image": "https://i.pinimg.com/originals/fc/98/0f/fc980f3874fb6f9a9e87e572ed7d2bff.jpg"
+    },
+    {
+        "id": "756464068635538508",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers61",
+        "image": "https://i.pinimg.com/originals/4f/06/b5/4f06b56d28a3f143e2e9ba803f247a2b.jpg"
+    },
+    {
+        "id": "756464068635213144",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers62",
+        "image": "https://i.pinimg.com/originals/0e/10/44/0e1044c7c66fd06b730f70a0bd18e79f.jpg"
+    },
+    {
+        "id": "756464068635012694",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers63",
+        "image": "https://i.pinimg.com/originals/99/ee/3a/99ee3aac8d4a2a3190c7492914b2e413.jpg"
+    },
+    {
+        "id": "756464068635012688",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers64",
+        "image": "https://i.pinimg.com/originals/84/41/d0/8441d0f7fc52e984808e43a28645ff44.jpg"
+    },
+    {
+        "id": "756464068635012678",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers65",
+        "image": "https://i.pinimg.com/originals/d9/aa/83/d9aa83845b0c1549efd132fd3b59e416.jpg"
+    },
+    {
+        "id": "756464068635012670",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers66",
+        "image": "https://i.pinimg.com/originals/52/e9/c6/52e9c663da781271b20a7404122df854.jpg"
+    },
+    {
+        "id": "756464068635012664",
+        "name_category": "Love_and_Hearts_Wallpapers",
+        "title": "Love and Hearts Wallpapers67",
+        "image": "https://i.pinimg.com/originals/52/17/52/521752383d29aa74a63e83520b57be4a.png"
+    }
+]
+}
