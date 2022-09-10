@@ -53,20 +53,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "Love_and_Hearts_Wallpapers",
+      "image": "https://i.pinimg.com/236x/72/19/2c/72192c7a70dd53357ebe283e332ea93d.jpg"
 
     }
   ],
