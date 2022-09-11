@@ -1,0 +1,392 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/2152232767",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/8566679449",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/6810497220",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/8526069424",
+      "backup_native_ads_Admob_or_applovin":"65254698deb4fb7a",
+      "backup_ads_banner":"	049532d2bdc9b81f",
+      "backup_ads_intertitial":"37d7faa8542a5a1d",
+      "backup_ads_rewards":"6213c197033e11c3",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "cute_dog_wallpapers",
+      "image": "https://i.pinimg.com/236x/fe/6b/39/fe6b395c077b67a8012b347fe557a0bf.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "878835314756806407",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers1",
+        "image": "https://i.pinimg.com/236x/44/6f/8f/446f8f62cd71a27f57517729da937cf4.jpg"
+    },
+    {
+        "id": "855050679258419541",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers2",
+        "image": "https://i.pinimg.com/236x/57/7c/39/577c397f07bd6e2accf8a77dbe482b43.jpg"
+    },
+    {
+        "id": "250653535500658290",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers3",
+        "image": "https://i.pinimg.com/236x/ca/e5/35/cae53505150ced3c4b5c7ccb31d6a6fa.jpg"
+    },
+    {
+        "id": "482518547585978784",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers4",
+        "image": "https://i.pinimg.com/236x/34/dd/aa/34ddaa320ebedec7f4fb5b3418f00445.jpg"
+    },
+    {
+        "id": "266345765455042195",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers5",
+        "image": "https://i.pinimg.com/236x/b8/80/54/b88054d9c3738a2a1d79c91a17e99d74.jpg"
+    },
+    {
+        "id": "765189792936797114",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers6",
+        "image": "https://i.pinimg.com/236x/00/64/04/0064040ccbf6ae87d48b48e9e120be4c.jpg"
+    },
+    {
+        "id": "610237818267007922",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers7",
+        "image": "https://i.pinimg.com/236x/1e/76/5d/1e765d743a711322fae87c39aaf9d492.jpg"
+    },
+    {
+        "id": "827536500258533290",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers8",
+        "image": "https://i.pinimg.com/originals/e0/b6/19/e0b619bb4def29cc007fba6c9b74cf99.jpg"
+    },
+    {
+        "id": "266345765453817841",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers9",
+        "image": "https://i.pinimg.com/236x/a9/4d/e6/a94de6487226190cfe141b69fbd5ac9a.jpg"
+    },
+    {
+        "id": "399835273176491425",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers10",
+        "image": "https://i.pinimg.com/236x/18/be/33/18be331d0a9a95c066e72b055f6584fe.jpg"
+    },
+    {
+        "id": "613474780487855213",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers11",
+        "image": "https://i.pinimg.com/236x/74/34/4f/74344f1d6a719809fb5903e26f5ddbcf.jpg"
+    },
+    {
+        "id": "83738874309636987",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers12",
+        "image": "https://i.pinimg.com/236x/bb/ec/50/bbec50c3aa735efe0eea5e892d9ce182.jpg"
+    },
+    {
+        "id": "701857923180187889",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers13",
+        "image": "https://i.pinimg.com/236x/68/f6/81/68f68178b1bd7272d3cbf392d7da124d.jpg"
+    },
+    {
+        "id": "1141029255565378555",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers14",
+        "image": "https://i.pinimg.com/236x/00/94/4e/00944ef0168e6600bd30c3e9ee2e9f3c.jpg"
+    },
+    {
+        "id": "266345765455039699",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers15",
+        "image": "https://i.pinimg.com/236x/63/b6/a9/63b6a94a25c2edef6aacdb095503a5c5.jpg"
+    },
+    {
+        "id": "618048748864406843",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers16",
+        "image": "https://i.pinimg.com/236x/dd/1e/5d/dd1e5d3d11de66bbdb27c4d46c36c2c3.jpg"
+    },
+    {
+        "id": "793759503069766793",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers17",
+        "image": "https://i.pinimg.com/originals/21/67/49/216749b97a2b7794fb09924421e4b0f0.jpg"
+    },
+    {
+        "id": "942237553267220493",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers18",
+        "image": "https://i.pinimg.com/236x/20/cc/ad/20ccadf026c53e633b4dc46302a49dc7--wallpapers-ipad-iphone--wallpaper.jpg"
+    },
+    {
+        "id": "995014111395134635",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers19",
+        "image": "https://i.pinimg.com/236x/bc/92/0a/bc920a6f1bed2f91dd5d08abe1332616.jpg"
+    },
+    {
+        "id": "738520038881198649",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers20",
+        "image": "https://i.pinimg.com/236x/45/47/fe/4547fe31fb1a552be7b7841f88642025.jpg"
+    },
+    {
+        "id": "603060206358354425",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers21",
+        "image": "https://i.pinimg.com/236x/76/3d/1e/763d1e27650df3f8c778df62c8f45679.jpg"
+    },
+    {
+        "id": "166140673731794042",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers22",
+        "image": "https://i.pinimg.com/236x/4d/df/d2/4ddfd2165e76bd2ac65a2754b5a38636--lamborghini-murcielago-sv-lamborghini-cars.jpg"
+    },
+    {
+        "id": "235313149265998592",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers23",
+        "image": "https://i.pinimg.com/236x/eb/21/b9/eb21b9a87cc0c4edeef2f282b0c9eb59--car-wallpapers-hd-wallpaper.jpg"
+    },
+    {
+        "id": "682506518522488846",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers24",
+        "image": "https://i.pinimg.com/236x/b7/26/ae/b726aeb79eee07e0b22482703c9bfd3d.jpg"
+    },
+    {
+        "id": "530158187354892165",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers25",
+        "image": "https://i.pinimg.com/236x/7e/88/db/7e88dbe9afd9e69df744ad6cf56fe405--tron-legacy-google-search.jpg"
+    },
+    {
+        "id": "136163588703753057",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers26",
+        "image": "https://i.pinimg.com/236x/4b/92/88/4b92885f35a794157ad0e8273867c9d2--lamborghini-concept-lamborghini-cars.jpg"
+    },
+    {
+        "id": "742108844845042686",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers27",
+        "image": "https://i.pinimg.com/236x/5c/6e/6d/5c6e6d61531b5116b89d224856f26525.jpg"
+    },
+    {
+        "id": "600315825338195680",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers28",
+        "image": "https://i.pinimg.com/236x/04/ad/aa/04adaa9ac827a4ade3464cb5dbc1b684--aventador-lamborghini-car-girls.jpg"
+    },
+    {
+        "id": "738520038881037739",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers29",
+        "image": "https://i.pinimg.com/236x/fb/e6/e2/fbe6e2297a3536e8adbf42451d51d3a5.jpg"
+    },
+    {
+        "id": "827536500258533290",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers30",
+        "image": "https://i.pinimg.com/originals/e0/b6/19/e0b619bb4def29cc007fba6c9b74cf99.jpg"
+    },
+    {
+        "id": "655625658261724893",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers31",
+        "image": "https://i.pinimg.com/236x/a0/49/55/a04955af444384b0c7d2731f57df2ecf.jpg"
+    },
+    {
+        "id": "398639004525544738",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers32",
+        "image": "https://i.pinimg.com/236x/f3/de/a8/f3dea8cefc8fec88d1d2517db42ce51d.jpg"
+    },
+    {
+        "id": "718535315550711357",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers33",
+        "image": "https://i.pinimg.com/236x/e7/44/95/e74495eee3f157f830084020bd044809--lamborghini-aventador-wallpaper-lamborghini-cars.jpg"
+    },
+    {
+        "id": "567172146830277749",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers34",
+        "image": "https://i.pinimg.com/236x/35/36/e6/3536e68170020da7a321dc9622b5d45c.jpg"
+    },
+    {
+        "id": "64739313385229291",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers35",
+        "image": "https://i.pinimg.com/236x/4b/b8/30/4bb8305f9b5b954bb63aec732fa1489d.jpg"
+    },
+    {
+        "id": "741123682399568916",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers36",
+        "image": "https://i.pinimg.com/236x/b4/ac/d5/b4acd5d0908dd8c928fbdebe9d366d64--lamborghini-aventador-lp--hd-wallpaper.jpg"
+    },
+    {
+        "id": "614459942898827041",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers37",
+        "image": "https://i.pinimg.com/236x/e6/7d/f3/e67df350743b3f850b7c2b27607a9724--aventador-lamborghini-all-cars.jpg"
+    },
+    {
+        "id": "117586240247282561",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers38",
+        "image": "https://i.pinimg.com/236x/3e/35/af/3e35af01c415fe2c6bf57b2c038b3b17--lamborghini-concept-lamborghini-cars.jpg"
+    },
+    {
+        "id": "308215168261070721",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers39",
+        "image": "https://i.pinimg.com/236x/fb/37/0d/fb370d862ed7fa67f8763e0eb9ca4925--green-lamborghini-news-media.jpg"
+    },
+    {
+        "id": "725642558686931256",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers40",
+        "image": "https://i.pinimg.com/236x/8b/c5/cf/8bc5cf2e24b90903faedcb30c23d5f08--camaro-concept-lamborghini-concept.jpg"
+    },
+    {
+        "id": "32088216069605015",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers41",
+        "image": "https://i.pinimg.com/236x/52/a0/13/52a0138eeeea1177dbee53ca74a1dbbe--lp-lamborghini-gallardo.jpg"
+    },
+    {
+        "id": "827536500258533290",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers42",
+        "image": "https://i.pinimg.com/originals/e0/b6/19/e0b619bb4def29cc007fba6c9b74cf99.jpg"
+    },
+    {
+        "id": "722968546446630549",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers43",
+        "image": "https://i.pinimg.com/236x/fc/56/66/fc5666dbfead84f59d742bda23e650ec.jpg"
+    },
+    {
+        "id": "680395456221245389",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers44",
+        "image": "https://i.pinimg.com/236x/6f/09/3e/6f093eeaf56bc2ffc2a0b5fa4c967c4d.jpg"
+    },
+    {
+        "id": "378724649924328864",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers45",
+        "image": "https://i.pinimg.com/236x/78/70/58/787058c4516bad9c6a4e02a9bbf736af.jpg"
+    },
+    {
+        "id": "266345765449157773",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers46",
+        "image": "https://i.pinimg.com/236x/61/74/77/6174770a343a0d4cd4abc0dbf4493ba4.jpg"
+    },
+    {
+        "id": "32791903526441778",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers47",
+        "image": "https://i.pinimg.com/236x/19/89/1a/19891a2d2e47250b3053717cb72d2a9a.jpg"
+    },
+    {
+        "id": "594193744595122975",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers48",
+        "image": "https://i.pinimg.com/236x/b5/59/c8/b559c8d69423dd714651400001a3c52f.jpg"
+    },
+    {
+        "id": "399835273176286899",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers49",
+        "image": "https://i.pinimg.com/236x/61/7e/93/617e9337cdffb8944262c590f7bea6f1.jpg"
+    },
+    {
+        "id": "291256300907292779",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers50",
+        "image": "https://i.pinimg.com/236x/ef/0f/36/ef0f36cab732fa203170358d3e87a5e2.jpg"
+    },
+    {
+        "id": "917397386567820819",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers51",
+        "image": "https://i.pinimg.com/236x/24/b7/9c/24b79cf2a1347fd18fc5332f2aa9f544.jpg"
+    },
+    {
+        "id": "827536500258533290",
+        "name_category": "lamborghini_wallpapers",
+        "title": "lamborghini wallpapers52",
+        "image": "https://i.pinimg.com/originals/e0/b6/19/e0b619bb4def29cc007fba6c9b74cf99.jpg"
+    }
+]
+}
