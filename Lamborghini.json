@@ -62,14 +62,50 @@
       "title":"Home Luxury",
       "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
     }
   ],
 
    "Categories": [
     {
       "id": 1,
-      "name_category": "cute_dog_wallpapers",
-      "image": "https://i.pinimg.com/236x/fe/6b/39/fe6b395c077b67a8012b347fe557a0bf.jpg"
+      "name_category": "lamborghini_wallpapers",
+      "image": "https://i.pinimg.com/236x/44/6f/8f/446f8f62cd71a27f57517729da937cf4.jpg"
 
     }
   ],
