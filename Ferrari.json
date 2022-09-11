@@ -1,0 +1,434 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/4858781991",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/5861421215",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/9727965292",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/5980291978",
+      "backup_native_ads_Admob_or_applovin":"a1ada59e842db580",
+      "backup_ads_banner":"366f3732f49c0e52",
+      "backup_ads_intertitial":"349d238d18f280c7",
+      "backup_ads_rewards":"83d1553af75adc35",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "ferrari_wallpapers",
+      "image": "https://i.pinimg.com/236x/d5/e4/9c/d5e49ce6162fc7bf6da662080e98601c.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "259519997265384042",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers1",
+        "image": "https://i.pinimg.com/236x/d5/e4/9c/d5e49ce6162fc7bf6da662080e98601c.jpg"
+    },
+    {
+        "id": "614319205436449320",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers2",
+        "image": "https://i.pinimg.com/236x/81/41/cb/8141cb605e8ff63b45df98872bd19b44.jpg"
+    },
+    {
+        "id": "820358888386647016",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers3",
+        "image": "https://i.pinimg.com/236x/9c/90/4d/9c904d4328c802d6767510eaadb592c8.jpg"
+    },
+    {
+        "id": "266345765451870991",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers4",
+        "image": "https://i.pinimg.com/236x/67/ca/3f/67ca3f30bb4da620ba502028c1388ba5.jpg"
+    },
+    {
+        "id": "821273682065148954",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers5",
+        "image": "https://i.pinimg.com/236x/ce/6f/d8/ce6fd8bd2d9f321198a0c4f0280a3ddb.jpg"
+    },
+    {
+        "id": "593912269622965413",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers6",
+        "image": "https://i.pinimg.com/236x/7b/5e/1e/7b5e1e72b398e1f5b756f114cafe57d0.jpg"
+    },
+    {
+        "id": "626704104410374515",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers7",
+        "image": "https://i.pinimg.com/236x/51/84/7a/51847a6dda95a23a260c50933d565251.jpg"
+    },
+    {
+        "id": "697565429754153720",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers8",
+        "image": "https://i.pinimg.com/originals/52/11/59/521159eff63769be583efb41c5ae439d.jpg"
+    },
+    {
+        "id": "811703532853686945",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers9",
+        "image": "https://i.pinimg.com/236x/49/6f/05/496f050f0f62a80bce1c4fdb54c7e29f.jpg"
+    },
+    {
+        "id": "603693525064135940",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers10",
+        "image": "https://i.pinimg.com/236x/7c/c4/b5/7cc4b5c58fa2abd4aa5a9169d7ad5dae.jpg"
+    },
+    {
+        "id": "459507968203612795",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers11",
+        "image": "https://i.pinimg.com/236x/55/6b/05/556b05068dd8adb7f83660fab3bf538a--ferrari-scuderia-ferrari-f.jpg"
+    },
+    {
+        "id": "639722322076762034",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers12",
+        "image": "https://i.pinimg.com/236x/b4/4c/66/b44c668aa38da2dc2ce481402ee9e7e9.jpg"
+    },
+    {
+        "id": "733523858044792106",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers13",
+        "image": "https://i.pinimg.com/236x/b5/e7/d2/b5e7d296b3756b03b033c3a96c25b88d.jpg"
+    },
+    {
+        "id": "734720126695260768",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers14",
+        "image": "https://i.pinimg.com/236x/2a/92/94/2a929431044a9c5dbb4cb9f362b3206a.jpg"
+    },
+    {
+        "id": "266345765453713442",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers15",
+        "image": "https://i.pinimg.com/236x/e7/c5/03/e7c503abd9eb9c1ffa3b4a0104aeb640.jpg"
+    },
+    {
+        "id": "299348706455699745",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers16",
+        "image": "https://i.pinimg.com/236x/dd/49/5d/dd495d31b0ea8f7c88fc4df2f01986ee--sportcars-ferrari-.jpg"
+    },
+    {
+        "id": "701506079467516441",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers17",
+        "image": "https://i.pinimg.com/236x/ab/d3/37/abd3377433d8519839fc9e510b63bb10.jpg"
+    },
+    {
+        "id": "854206254333718810",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers18",
+        "image": "https://i.pinimg.com/236x/75/e5/74/75e5742d6a293917781506d828ca1995--sportcars-luxury-sports-cars.jpg"
+    },
+    {
+        "id": "697565429754153720",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers19",
+        "image": "https://i.pinimg.com/originals/52/11/59/521159eff63769be583efb41c5ae439d.jpg"
+    },
+    {
+        "id": "830069775064765861",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers20",
+        "image": "https://i.pinimg.com/236x/49/97/b9/4997b9eb109a15e7ee5fee5df6b085af.jpg"
+    },
+    {
+        "id": "268949408987119545",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers21",
+        "image": "https://i.pinimg.com/236x/dc/81/8d/dc818d5553c1cd3015c3782f37c4536a.jpg"
+    },
+    {
+        "id": "454300681164996598",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers22",
+        "image": "https://i.pinimg.com/236x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg"
+    },
+    {
+        "id": "266345765452530304",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers23",
+        "image": "https://i.pinimg.com/236x/81/7e/a4/817ea4d57ee67cfdd5890e9cb5dbcbf1.jpg"
+    },
+    {
+        "id": "724446290069541096",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers24",
+        "image": "https://i.pinimg.com/236x/69/ae/f0/69aef04eb774309060b96d4138d2ebac.jpg"
+    },
+    {
+        "id": "268949408987779134",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers25",
+        "image": "https://i.pinimg.com/236x/aa/72/11/aa72117c2fadc5e9a876de2d6214f7b0.jpg"
+    },
+    {
+        "id": "855402522982330345",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers26",
+        "image": "https://i.pinimg.com/236x/d8/dd/56/d8dd567a39dba8b13fd027853246bf0b.jpg"
+    },
+    {
+        "id": "128493395608584344",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers27",
+        "image": "https://i.pinimg.com/236x/a9/20/13/a92013af673ec34218d336faf4dcfa5f.jpg"
+    },
+    {
+        "id": "405886985177102910",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers28",
+        "image": "https://i.pinimg.com/236x/cb/8c/d8/cb8cd89b0d0e5576dc3039677e050fae.jpg"
+    },
+    {
+        "id": "697565429754153720",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers29",
+        "image": "https://i.pinimg.com/originals/52/11/59/521159eff63769be583efb41c5ae439d.jpg"
+    },
+    {
+        "id": "6755468179779695",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers30",
+        "image": "https://i.pinimg.com/236x/65/29/60/652960942aa1338d11696913aa936fa7.jpg"
+    },
+    {
+        "id": "305400418491877531",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers31",
+        "image": "https://i.pinimg.com/236x/39/f8/7a/39f87a4eb94253da6883858c6db8e4e2.jpg"
+    },
+    {
+        "id": "510314201531888375",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers32",
+        "image": "https://i.pinimg.com/236x/7d/fa/2d/7dfa2d1cd857bc7ac35ced43cc49b890.jpg"
+    },
+    {
+        "id": "699606123374630415",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers33",
+        "image": "https://i.pinimg.com/236x/45/58/30/455830d009d398f660246827dc14bec6.jpg"
+    },
+    {
+        "id": "405886985177102910",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers34",
+        "image": "https://i.pinimg.com/236x/cb/8c/d8/cb8cd89b0d0e5576dc3039677e050fae.jpg"
+    },
+    {
+        "id": "814588651344954814",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers35",
+        "image": "https://i.pinimg.com/236x/93/e2/70/93e270d2c5c2e543e0cdcf4ff62a3786--donuts-ferrari-f.jpg"
+    },
+    {
+        "id": "699606123374630418",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers36",
+        "image": "https://i.pinimg.com/236x/42/3d/16/423d1609b032d9613a17e94056207a0c.jpg"
+    },
+    {
+        "id": "248753579388242149",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers37",
+        "image": "https://i.pinimg.com/236x/a4/ec/67/a4ec674b34b28246514faadb21b282ff--sportcars-spiders.jpg"
+    },
+    {
+        "id": "325103666838271523",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers38",
+        "image": "https://i.pinimg.com/236x/65/39/b7/6539b781e912d6641322efe35ede133e--josh-cartu-ferrari-f.jpg"
+    },
+    {
+        "id": "41306521573921191",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers39",
+        "image": "https://i.pinimg.com/236x/ec/fd/c7/ecfdc7e5eeea246e1c09ffc8a8aa7c90--ferrari-logo-hd-wallpaper.jpg"
+    },
+    {
+        "id": "15762667416971246",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers40",
+        "image": "https://i.pinimg.com/236x/4d/66/9a/4d669a7054fb65bf89cb65da747e28d0--desktop-wallpapers-hd-wallpaper.jpg"
+    },
+    {
+        "id": "510314201528906977",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers41",
+        "image": "https://i.pinimg.com/236x/83/b1/b2/83b1b2159af5c6af175cc95f03a51d05.jpg"
+    },
+    {
+        "id": "720364902904266419",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers42",
+        "image": "https://i.pinimg.com/236x/3d/17/3c/3d173c244de38c94d155d0fa386fcbd2.jpg"
+    },
+    {
+        "id": "625648573240805674",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers43",
+        "image": "https://i.pinimg.com/236x/87/be/86/87be8672b9fbbf4212dcf07e11a394a4.jpg"
+    },
+    {
+        "id": "697565429754153720",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers44",
+        "image": "https://i.pinimg.com/originals/52/11/59/521159eff63769be583efb41c5ae439d.jpg"
+    },
+    {
+        "id": "822540319457168172",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers45",
+        "image": "https://i.pinimg.com/236x/19/39/8c/19398c775e2857827feb03d268d17263.jpg"
+    },
+    {
+        "id": "1103663452407502267",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers46",
+        "image": "https://i.pinimg.com/236x/81/99/84/819984c24d7e3afb7b73f4497a2790d9.jpg"
+    },
+    {
+        "id": "266345765454693316",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers47",
+        "image": "https://i.pinimg.com/236x/5a/9f/3c/5a9f3c764109468fd6115c4e0d3f13da.jpg"
+    },
+    {
+        "id": "266345765452351667",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers48",
+        "image": "https://i.pinimg.com/236x/2a/f0/84/2af08470c9fe1ff768b52c8ed645d3c3.jpg"
+    },
+    {
+        "id": "48202658501924446",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers49",
+        "image": "https://i.pinimg.com/236x/2c/bd/7d/2cbd7d76936d3187f27a62da86fdd3cc.jpg"
+    },
+    {
+        "id": "756464068676880486",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers50",
+        "image": "https://i.pinimg.com/236x/8d/78/65/8d78654b34fda07ceff1e4a0580ec186.jpg"
+    },
+    {
+        "id": "266345765452032753",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers51",
+        "image": "https://i.pinimg.com/236x/e2/dd/e7/e2dde7f87b10b6416587d310c73f0d9e.jpg"
+    },
+    {
+        "id": "697565429754153720",
+        "name_category": "ferrari_wallpapers",
+        "title": "ferrari wallpapers52",
+        "image": "https://i.pinimg.com/originals/52/11/59/521159eff63769be583efb41c5ae439d.jpg"
+    }
+]
+}
