@@ -1,0 +1,434 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/7730990361",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/9764721791",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/3199313446",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/8451640125",
+      "backup_native_ads_Admob_or_applovin":"a8995a944d963112",
+      "backup_ads_banner":"b412c0cf0fd64734",
+      "backup_ads_intertitial":"ceedcec9c6840c40",
+      "backup_ads_rewards":"3f0ae0c221afa9ce",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "classic_wallpapers",
+      "image": "https://i.pinimg.com/236x/3c/c7/8b/3cc78beee74182a3342c2f2e76576e5c.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "678706606348379927",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers1",
+        "image": "https://i.pinimg.com/236x/3c/c7/8b/3cc78beee74182a3342c2f2e76576e5c.jpg"
+    },
+    {
+        "id": "339177415700025060",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers2",
+        "image": "https://i.pinimg.com/236x/b2/19/ac/b219acdbbd8a6e8fbc1eb140a2271832.jpg"
+    },
+    {
+        "id": "648659152590700861",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers3",
+        "image": "https://i.pinimg.com/236x/96/5c/83/965c831cfc30698564fe165427a07d71.jpg"
+    },
+    {
+        "id": "583779170461476664",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers4",
+        "image": "https://i.pinimg.com/236x/64/f7/05/64f7051a4bcc8098f0aae03a5388589a.jpg"
+    },
+    {
+        "id": "622059767294119236",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers5",
+        "image": "https://i.pinimg.com/236x/d9/9b/5f/d99b5f1603f85000b528d252b2662cd7.jpg"
+    },
+    {
+        "id": "678565868859608918",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers6",
+        "image": "https://i.pinimg.com/236x/f8/d3/cc/f8d3cce42497a090fc30b1dba49bf44e.jpg"
+    },
+    {
+        "id": "831477149968633257",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers7",
+        "image": "https://i.pinimg.com/236x/06/88/c7/0688c749bfc0e02df20ba4ec92b6b069.jpg"
+    },
+    {
+        "id": "607141593529554252",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers8",
+        "image": "https://i.pinimg.com/236x/d5/c9/76/d5c97685e32e9828e45cd982d8966b7f.jpg"
+    },
+    {
+        "id": "771593348633352337",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers9",
+        "image": "https://i.pinimg.com/originals/27/de/21/27de2156157fa9b543c8d2f7278fc41a.png"
+    },
+    {
+        "id": "651896114826617722",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers10",
+        "image": "https://i.pinimg.com/236x/38/ac/a5/38aca541ae61dfe78b4ce0342be42acb.jpg"
+    },
+    {
+        "id": "9429480462499217",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers11",
+        "image": "https://i.pinimg.com/236x/71/a3/8b/71a38bbcb372d82dac86a4d3190697d6.jpg"
+    },
+    {
+        "id": "452611831313947566",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers12",
+        "image": "https://i.pinimg.com/236x/1d/8b/cd/1d8bcd6edfbe2e73ae166963d6d42cb4--car-vehicle-vintage-cars.jpg"
+    },
+    {
+        "id": "34762228364690337",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers13",
+        "image": "https://i.pinimg.com/236x/8e/98/c4/8e98c422930513d0599d4b789679d20f.jpg"
+    },
+    {
+        "id": "671247519441928738",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers14",
+        "image": "https://i.pinimg.com/236x/6e/3d/6a/6e3d6a57ce8f3650323a24a492201769.jpg"
+    },
+    {
+        "id": "811703532853686945",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers15",
+        "image": "https://i.pinimg.com/236x/49/6f/05/496f050f0f62a80bce1c4fdb54c7e29f.jpg"
+    },
+    {
+        "id": "34762228364690334",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers16",
+        "image": "https://i.pinimg.com/236x/38/0c/70/380c707d1d781aff98248d1899a88a00.jpg"
+    },
+    {
+        "id": "89157267617157206",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers17",
+        "image": "https://i.pinimg.com/236x/39/38/70/393870bca9fabe7c82cebad59d135c03.jpg"
+    },
+    {
+        "id": "394346511120140404",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers18",
+        "image": "https://i.pinimg.com/originals/cb/17/7a/cb177a13e76c8d2c887ce8e8fca2269f.jpg"
+    },
+    {
+        "id": "394346511115365795",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers19",
+        "image": "https://i.pinimg.com/originals/29/ac/ea/29acea43d857c693aac22055c542feb2.jpg"
+    },
+    {
+        "id": "394346511108935370",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers20",
+        "image": "https://i.pinimg.com/originals/ba/1b/18/ba1b188638ff6a2ae68887f372d9aef7.jpg"
+    },
+    {
+        "id": "394346511108843785",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers21",
+        "image": "https://i.pinimg.com/originals/8f/1e/05/8f1e05ea606b2dd802cde8a95c887e94.jpg"
+    },
+    {
+        "id": "394346511108843777",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers22",
+        "image": "https://i.pinimg.com/originals/95/09/47/95094720baf91c7d47440bffba8e0e81.jpg"
+    },
+    {
+        "id": "394346511108843769",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers23",
+        "image": "https://i.pinimg.com/originals/27/6a/49/276a495846c07d1eca931d36dfe10194.jpg"
+    },
+    {
+        "id": "394346511108843767",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers24",
+        "image": "https://i.pinimg.com/originals/72/13/5b/72135b24c6662f513e7e940924f2e20c.jpg"
+    },
+    {
+        "id": "394346511108843763",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers25",
+        "image": "https://i.pinimg.com/originals/18/25/dd/1825dddee66a13ea8f12cc2321fe9262.jpg"
+    },
+    {
+        "id": "394346511108843762",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers26",
+        "image": "https://i.pinimg.com/originals/7c/b3/57/7cb35703cb94e8be990b3b9676b76195.jpg"
+    },
+    {
+        "id": "394346511108843758",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers27",
+        "image": "https://i.pinimg.com/originals/94/a6/25/94a6252453ac4ddfd67f8dee05a42540.jpg"
+    },
+    {
+        "id": "394346511108843753",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers28",
+        "image": "https://i.pinimg.com/originals/fe/f4/92/fef492b4ef311352f09ccfa33b44e58b.jpg"
+    },
+    {
+        "id": "394346511108843751",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers29",
+        "image": "https://i.pinimg.com/originals/4f/ec/97/4fec97282652298313d0d04efdf08cbd.jpg"
+    },
+    {
+        "id": "394346511108843746",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers30",
+        "image": "https://i.pinimg.com/originals/4b/61/4c/4b614cd0eefc8a4e9e62e4b1f7f6282f.jpg"
+    },
+    {
+        "id": "394346511108843745",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers31",
+        "image": "https://i.pinimg.com/originals/fc/1e/59/fc1e59741f8331e3a1ff1c21fec490a4.jpg"
+    },
+    {
+        "id": "394346511108843738",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers32",
+        "image": "https://i.pinimg.com/originals/b1/5c/5a/b15c5ad99e195f9d56311b4827971b57.jpg"
+    },
+    {
+        "id": "394346511108843735",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers33",
+        "image": "https://i.pinimg.com/originals/d3/7e/14/d37e14de7901de633babd9687977503d.jpg"
+    },
+    {
+        "id": "394346511108843731",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers34",
+        "image": "https://i.pinimg.com/originals/a0/34/7c/a0347c5b191c17011ec002697ce43e98.jpg"
+    },
+    {
+        "id": "394346511108843722",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers35",
+        "image": "https://i.pinimg.com/originals/25/cf/89/25cf8950e313a1234df7b8e1ed3ed7bb.png"
+    },
+    {
+        "id": "394346511108843720",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers36",
+        "image": "https://i.pinimg.com/originals/58/59/c1/5859c1ff46e1768eb6df977b4b830c32.jpg"
+    },
+    {
+        "id": "394346511108843716",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers37",
+        "image": "https://i.pinimg.com/originals/b7/b9/27/b7b92773e1780cb899d94c1f12b95175.jpg"
+    },
+    {
+        "id": "394346511108843712",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers38",
+        "image": "https://i.pinimg.com/originals/d5/cc/3a/d5cc3a60fc9e649010b1b744c5a9bbb3.jpg"
+    },
+    {
+        "id": "394346511108843709",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers39",
+        "image": "https://i.pinimg.com/originals/8b/bb/9e/8bbb9e793a5e7451ee3404f4a8dadf4a.jpg"
+    },
+    {
+        "id": "394346511108843705",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers40",
+        "image": "https://i.pinimg.com/originals/56/03/86/560386252208a2b99275d51a79985e7a.jpg"
+    },
+    {
+        "id": "394346511108843702",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers41",
+        "image": "https://i.pinimg.com/originals/57/15/9a/57159ab5088d460e3e8dedc063fb51bd.jpg"
+    },
+    {
+        "id": "394346511108843700",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers42",
+        "image": "https://i.pinimg.com/originals/bd/5c/c4/bd5cc4b46426ea2dea81221491eefd59.jpg"
+    },
+    {
+        "id": "860469072571814915",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers43",
+        "image": "https://i.pinimg.com/236x/4c/8d/ce/4c8dcee8159fecba1e9f867ae80b1e71.jpg"
+    },
+    {
+        "id": "654992339586241827",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers44",
+        "image": "https://i.pinimg.com/236x/9f/ed/f9/9fedf922d5e162b717f13f311ef5ea8d.jpg"
+    },
+    {
+        "id": "943293084425889030",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers45",
+        "image": "https://i.pinimg.com/236x/4a/98/c4/4a98c49d1f6f974b0af1a12ad16a559a.jpg"
+    },
+    {
+        "id": "1065875436779200415",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers46",
+        "image": "https://i.pinimg.com/236x/e2/4b/92/e24b92f8591c199baaf284cb5203ec5c.jpg"
+    },
+    {
+        "id": "671247519441928738",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers47",
+        "image": "https://i.pinimg.com/236x/6e/3d/6a/6e3d6a57ce8f3650323a24a492201769.jpg"
+    },
+    {
+        "id": "16888567389463414",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers48",
+        "image": "https://i.pinimg.com/236x/d1/be/a8/d1bea82fcb2c890bca9ace4f406a1533.jpg"
+    },
+    {
+        "id": "656540451946201560",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers49",
+        "image": "https://i.pinimg.com/236x/f8/4f/b2/f84fb2f1bb531f24f4fe971956235a14.jpg"
+    },
+    {
+        "id": "98938523048483510",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers50",
+        "image": "https://i.pinimg.com/236x/d9/22/0d/d9220db96f8d83383f8819f675d0f994.jpg"
+    },
+    {
+        "id": "89157267617157206",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers51",
+        "image": "https://i.pinimg.com/236x/39/38/70/393870bca9fabe7c82cebad59d135c03.jpg"
+    },
+    {
+        "id": "771593348633352337",
+        "name_category": "classic_wallpapers",
+        "title": "classic wallpapers52",
+        "image": "https://i.pinimg.com/originals/27/de/21/27de2156157fa9b543c8d2f7278fc41a.png"
+    }
+]
+}
