@@ -110,8 +110,8 @@
    "Categories": [
     {
       "id": 1,
-      "name_category": "Ghost_Wallpapers",
-      "image": "https://i.pinimg.com/236x/48/74/3f/48743fd5920f3fcc7f15d0c1a8578737.jpg"
+      "name_category": "autumn_wallpapers",
+      "image": "https://i.pinimg.com/236x/9c/79/d6/9c79d666374b3371b80667c7fe60a518.jpg"
 
     }
   ],
@@ -119,400 +119,256 @@
   "Data":
   [
     {
-        "id": "1152569729612012654",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers1",
-        "image": "https://i.pinimg.com/236x/48/74/3f/48743fd5920f3fcc7f15d0c1a8578737.jpg"
+        "id": "76209418685003818",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/9c/79/d6/9c79d666374b3371b80667c7fe60a518.jpg"
     },
     {
-        "id": "161003755419726965",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers2",
-        "image": "https://i.pinimg.com/236x/cc/45/58/cc4558e367af89eb611c025a8e02ce38.jpg"
+        "id": "789255903449942323",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/31/0b/ba/310bbae812281f8758f188db056e79b5.jpg"
     },
     {
-        "id": "779685754252100443",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers3",
-        "image": "https://i.pinimg.com/236x/e9/8a/a6/e98aa6880e9d32e35e074b5454cfbf0a.jpg"
+        "id": "576671927299010364",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/39/88/2b/39882b4cdd10b275e6e864f1e600fe29.jpg"
     },
     {
-        "id": "579134833329235751",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers4",
-        "image": "https://i.pinimg.com/236x/76/c6/52/76c652d84dbbcd44081340adfb98facb.jpg"
+        "id": "643170390550194995",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/0d/fb/1b/0dfb1b2152ab6da35d2c4bcd7420f604.jpg"
     },
     {
-        "id": "394768723595319756",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers5",
-        "image": "https://i.pinimg.com/236x/8d/ff/d3/8dffd31c4fba3e215a40c47ee022c670.jpg"
+        "id": "55591376642607450",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/a5/c3/16/a5c3162b2a49a58ed523a7e398177c15.jpg"
     },
     {
-        "id": "588704982542450092",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers6",
-        "image": "https://i.pinimg.com/236x/61/9d/b5/619db5f382480c4a91d658ba80316a93.jpg"
+        "id": "909727193452813853",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/c0/69/e1/c069e1c96bb2d26361933a8d3b017ae9.jpg"
     },
     {
-        "id": "86131411612420166",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers7",
-        "image": "https://i.pinimg.com/236x/28/63/56/286356d3b407e9efa3f969abb4d15f9a.jpg"
+        "id": "4222193390034874",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/64/94/bd/6494bda29e26ac3411b98ace0c727482.jpg"
     },
     {
-        "id": "294985844358534990",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers8",
-        "image": "https://i.pinimg.com/originals/1d/9c/8e/1d9c8e686265ec781b108a5a1e4adb62.png"
+        "id": "637400153527385990",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/13/8e/fc/138efc8bdbde018a0892e6f9ebf49876.jpg"
     },
     {
-        "id": "294985844353542868",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers9",
-        "image": "https://i.pinimg.com/originals/e1/76/a5/e176a533002d4377f80f60ff8959cb49.jpg"
+        "id": "341569952981273561",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/originals/9c/cc/ec/9cccec23549bd18ec7809ca06e4c9cec.jpg"
     },
     {
-        "id": "294985844353542867",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers10",
-        "image": "https://i.pinimg.com/originals/71/27/e6/7127e67450586d2bd02f82cd34a1ef83.jpg"
+        "id": "86694361568608074",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/08/3f/9c/083f9ce2431261fea33e76bff21cef23.jpg"
     },
     {
-        "id": "294985844353542866",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers11",
-        "image": "https://i.pinimg.com/originals/09/a7/b3/09a7b3ee9e6a9864084a92baf269b8c4.jpg"
+        "id": "327918416621531414",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/30/5b/7b/305b7b1f22bae285ff4e286c8a18dd05.jpg"
     },
     {
-        "id": "294985844349755259",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers12",
-        "image": "https://i.pinimg.com/originals/2c/b0/11/2cb011b414dfe1b33ba3b808c1c32632.jpg"
+        "id": "260786634664446378",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/1f/36/b3/1f36b3318b2c917b4ba551a9aa1f7c9a.jpg"
     },
     {
-        "id": "294985844349755258",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers13",
-        "image": "https://i.pinimg.com/originals/2c/f9/6c/2cf96c814c0bbd24df1582b503ae4cbf.jpg"
+        "id": "602215781416550839",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/f9/2d/2f/f92d2f7097c7b789937d8a3360bbb593.jpg"
     },
     {
-        "id": "294985844349755255",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers14",
-        "image": "https://i.pinimg.com/originals/00/7a/2d/007a2da4431d32fabe5f467c13140aef.jpg"
+        "id": "818247826031305745",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/4c/95/5e/4c955ec6aab72bc9cce1bb912fe17135.jpg"
     },
     {
-        "id": "294985844349755250",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers15",
-        "image": "https://i.pinimg.com/originals/8c/36/c7/8c36c7f0a695a9218571f0b0a1721ead.jpg"
+        "id": "734649757962053294",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/c2/f4/b4/c2f4b4a18a4fc0e957f7616dbb565f20.jpg"
     },
     {
-        "id": "294985844349755249",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers16",
-        "image": "https://i.pinimg.com/originals/4f/13/7e/4f137ef184bccc6da7a109f0e5d54721.jpg"
+        "id": "430375308131318387",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/originals/fe/57/84/fe5784edd6f8510f3df67a2449164bbe.jpg"
     },
     {
-        "id": "294985844349755248",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers17",
-        "image": "https://i.pinimg.com/originals/6d/56/c3/6d56c37340d0e92ced46a961bba4992b.jpg"
+        "id": "157837161933022955",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/8d/6a/c8/8d6ac8fe5aa599ee59352c27e3221fde.jpg"
     },
     {
-        "id": "294985844349755244",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers18",
-        "image": "https://i.pinimg.com/originals/eb/5c/45/eb5c459fb3dd98ee34eae31153eedfa4.jpg"
+        "id": "602215781416550839",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/f9/2d/2f/f92d2f7097c7b789937d8a3360bbb593.jpg"
     },
     {
-        "id": "294985844349755238",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers19",
-        "image": "https://i.pinimg.com/originals/d0/0a/34/d00a34ce4f54c33145b4da263e275e23.jpg"
+        "id": "818247826031305745",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/4c/95/5e/4c955ec6aab72bc9cce1bb912fe17135.jpg"
     },
     {
-        "id": "294985844349755234",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers20",
-        "image": "https://i.pinimg.com/originals/cc/62/0a/cc620ac14bba5d54c0eb5f3bdcd9c793.jpg"
+        "id": "11540542789066155",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/fe/19/fe/fe19fe86823c8ea9df855c45dc6a0c0c.jpg"
     },
     {
-        "id": "294985844349755232",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers21",
-        "image": "https://i.pinimg.com/originals/7a/3f/7f/7a3f7f5f5b27d0804507325e41c4d660.jpg"
+        "id": "734649757962053294",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/c2/f4/b4/c2f4b4a18a4fc0e957f7616dbb565f20.jpg"
     },
     {
-        "id": "294985844349755230",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers22",
-        "image": "https://i.pinimg.com/originals/07/c1/51/07c1519b2c03cad5761e602329fa5fe4.jpg"
+        "id": "411586853455330433",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/74/49/0b/74490b07885c626b3cee899831c9700b.jpg"
     },
     {
-        "id": "294985844349755229",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers23",
-        "image": "https://i.pinimg.com/originals/f8/31/a2/f831a2524151f86df7f918650ffc6c28.jpg"
+        "id": "602215781416550834",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/e6/ff/11/e6ff111692d42e105e7d593f2ee80b87.jpg"
     },
     {
-        "id": "294985844349755227",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers24",
-        "image": "https://i.pinimg.com/originals/33/e5/a1/33e5a1b8580639389deddd4d0a595333.jpg"
+        "id": "341569952981273561",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/originals/9c/cc/ec/9cccec23549bd18ec7809ca06e4c9cec.jpg"
     },
     {
-        "id": "294985844349755225",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers25",
-        "image": "https://i.pinimg.com/originals/7e/2e/80/7e2e805f3c507fb48484026a796c837f.jpg"
+        "id": "558376053809045076",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/84/25/44/84254405eff68b30eae2e51457d6c354.jpg"
     },
     {
-        "id": "294985844349755224",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers26",
-        "image": "https://i.pinimg.com/originals/73/59/c7/7359c7e7fe4a8a6dc1fdd39a7552bc73.jpg"
+        "id": "277323289544112299",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/06/e3/8c/06e38c7f1b4b87a9ac6e6e723d27de18.jpg"
     },
     {
-        "id": "294985844349755222",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers27",
-        "image": "https://i.pinimg.com/originals/0e/c6/94/0ec694f3ea5426e2a2fb4e911c5a46fd.jpg"
+        "id": "86694361568608074",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/08/3f/9c/083f9ce2431261fea33e76bff21cef23.jpg"
     },
     {
-        "id": "294985844349755221",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers28",
-        "image": "https://i.pinimg.com/originals/84/5c/61/845c61b820f9029d2d48bc00aec14bdc.jpg"
+        "id": "327918416621531414",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/30/5b/7b/305b7b1f22bae285ff4e286c8a18dd05.jpg"
     },
     {
-        "id": "294985844349755218",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers29",
-        "image": "https://i.pinimg.com/originals/34/e0/6c/34e06ca9288bec13d02bcd3eebd976aa.jpg"
+        "id": "600667669067045479",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/9c/de/92/9cde92392cbd8e98d2c3af2aa5e43f6c.jpg"
     },
     {
-        "id": "294985844349755213",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers30",
-        "image": "https://i.pinimg.com/originals/cf/14/eb/cf14ebcdfc83e6236f743489f6abedf3.jpg"
+        "id": "250723904246914255",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/5d/cf/26/5dcf26213fdb1b06dcc255c45198e32b.jpg"
     },
     {
-        "id": "294985844349755212",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers31",
-        "image": "https://i.pinimg.com/originals/49/d0/ec/49d0ec327f03ddc38834cee782267ecb.jpg"
+        "id": "602215781416550839",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/f9/2d/2f/f92d2f7097c7b789937d8a3360bbb593.jpg"
     },
     {
-        "id": "294985844349755207",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers32",
-        "image": "https://i.pinimg.com/originals/0d/90/58/0d9058ed21ff63a05a922780e5527f9e.jpg"
+        "id": "818247826031305745",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/4c/95/5e/4c955ec6aab72bc9cce1bb912fe17135.jpg"
     },
     {
-        "id": "816136763724975535",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers33",
-        "image": "https://i.pinimg.com/236x/68/63/b7/6863b775362fb209686b2571431e1a9f.jpg"
+        "id": "734649757962053294",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/c2/f4/b4/c2f4b4a18a4fc0e957f7616dbb565f20.jpg"
     },
     {
-        "id": "579134833329235751",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers34",
-        "image": "https://i.pinimg.com/236x/76/c6/52/76c652d84dbbcd44081340adfb98facb.jpg"
+        "id": "341569952981273561",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/originals/9c/cc/ec/9cccec23549bd18ec7809ca06e4c9cec.jpg"
     },
     {
-        "id": "1041950063765253366",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers35",
-        "image": "https://i.pinimg.com/236x/ac/7c/11/ac7c11e00a1b37df4ada60d2515ebc75.jpg"
+        "id": "86694361568608074",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/08/3f/9c/083f9ce2431261fea33e76bff21cef23.jpg"
     },
     {
-        "id": "404479610287283536",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers36",
-        "image": "https://i.pinimg.com/236x/0b/9c/71/0b9c71774e7dd317b9ccabeac3459245.jpg"
+        "id": "600667669067045479",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/9c/de/92/9cde92392cbd8e98d2c3af2aa5e43f6c.jpg"
     },
     {
-        "id": "382172718389745505",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers37",
-        "image": "https://i.pinimg.com/236x/9d/28/13/9d2813c9e83b6ddbbf1d05adbcc57703.jpg"
+        "id": "602215781416550839",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/f9/2d/2f/f92d2f7097c7b789937d8a3360bbb593.jpg"
     },
     {
-        "id": "10485011626127388",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers38",
-        "image": "https://i.pinimg.com/236x/8a/a9/75/8aa9753b2c44c3ef459394b7c920dd3a.jpg"
+        "id": "316729786290988607",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/a2/f9/2e/a2f92ea234ec0ec4263de6e4baed972b--fall-images.jpg"
     },
     {
-        "id": "444800900709102031",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers39",
-        "image": "https://i.pinimg.com/236x/8d/c8/ba/8dc8bade9ad480e4eabc9fdbd48edd50.jpg"
+        "id": "818247826031305745",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/4c/95/5e/4c955ec6aab72bc9cce1bb912fe17135.jpg"
     },
     {
-        "id": "805933295831044091",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers40",
-        "image": "https://i.pinimg.com/236x/61/65/78/616578e52da286eafe5dc8a7bb5c6577.jpg"
+        "id": "734649757962053294",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/c2/f4/b4/c2f4b4a18a4fc0e957f7616dbb565f20.jpg"
     },
     {
-        "id": "576742296044262503",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers41",
-        "image": "https://i.pinimg.com/236x/67/bb/08/67bb0812966960ff4e036aa44029e777.jpg"
+        "id": "411586853455330433",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/236x/74/49/0b/74490b07885c626b3cee899831c9700b.jpg"
     },
     {
-        "id": "294985844358534990",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers42",
-        "image": "https://i.pinimg.com/originals/1d/9c/8e/1d9c8e686265ec781b108a5a1e4adb62.png"
-    },
-    {
-        "id": "294985844353542868",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers43",
-        "image": "https://i.pinimg.com/originals/e1/76/a5/e176a533002d4377f80f60ff8959cb49.jpg"
-    },
-    {
-        "id": "294985844353542867",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers44",
-        "image": "https://i.pinimg.com/originals/71/27/e6/7127e67450586d2bd02f82cd34a1ef83.jpg"
-    },
-    {
-        "id": "294985844353542866",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers45",
-        "image": "https://i.pinimg.com/originals/09/a7/b3/09a7b3ee9e6a9864084a92baf269b8c4.jpg"
-    },
-    {
-        "id": "294985844349755259",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers46",
-        "image": "https://i.pinimg.com/originals/2c/b0/11/2cb011b414dfe1b33ba3b808c1c32632.jpg"
-    },
-    {
-        "id": "294985844349755258",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers47",
-        "image": "https://i.pinimg.com/originals/2c/f9/6c/2cf96c814c0bbd24df1582b503ae4cbf.jpg"
-    },
-    {
-        "id": "294985844349755255",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers48",
-        "image": "https://i.pinimg.com/originals/00/7a/2d/007a2da4431d32fabe5f467c13140aef.jpg"
-    },
-    {
-        "id": "294985844349755250",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers49",
-        "image": "https://i.pinimg.com/originals/8c/36/c7/8c36c7f0a695a9218571f0b0a1721ead.jpg"
-    },
-    {
-        "id": "294985844349755249",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers50",
-        "image": "https://i.pinimg.com/originals/4f/13/7e/4f137ef184bccc6da7a109f0e5d54721.jpg"
-    },
-    {
-        "id": "294985844349755248",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers51",
-        "image": "https://i.pinimg.com/originals/6d/56/c3/6d56c37340d0e92ced46a961bba4992b.jpg"
-    },
-    {
-        "id": "294985844349755244",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers52",
-        "image": "https://i.pinimg.com/originals/eb/5c/45/eb5c459fb3dd98ee34eae31153eedfa4.jpg"
-    },
-    {
-        "id": "294985844349755238",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers53",
-        "image": "https://i.pinimg.com/originals/d0/0a/34/d00a34ce4f54c33145b4da263e275e23.jpg"
-    },
-    {
-        "id": "294985844349755234",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers54",
-        "image": "https://i.pinimg.com/originals/cc/62/0a/cc620ac14bba5d54c0eb5f3bdcd9c793.jpg"
-    },
-    {
-        "id": "294985844349755232",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers55",
-        "image": "https://i.pinimg.com/originals/7a/3f/7f/7a3f7f5f5b27d0804507325e41c4d660.jpg"
-    },
-    {
-        "id": "294985844349755230",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers56",
-        "image": "https://i.pinimg.com/originals/07/c1/51/07c1519b2c03cad5761e602329fa5fe4.jpg"
-    },
-    {
-        "id": "294985844349755229",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers57",
-        "image": "https://i.pinimg.com/originals/f8/31/a2/f831a2524151f86df7f918650ffc6c28.jpg"
-    },
-    {
-        "id": "294985844349755227",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers58",
-        "image": "https://i.pinimg.com/originals/33/e5/a1/33e5a1b8580639389deddd4d0a595333.jpg"
-    },
-    {
-        "id": "294985844349755225",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers59",
-        "image": "https://i.pinimg.com/originals/7e/2e/80/7e2e805f3c507fb48484026a796c837f.jpg"
-    },
-    {
-        "id": "294985844349755224",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers60",
-        "image": "https://i.pinimg.com/originals/73/59/c7/7359c7e7fe4a8a6dc1fdd39a7552bc73.jpg"
-    },
-    {
-        "id": "294985844349755222",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers61",
-        "image": "https://i.pinimg.com/originals/0e/c6/94/0ec694f3ea5426e2a2fb4e911c5a46fd.jpg"
-    },
-    {
-        "id": "294985844349755221",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers62",
-        "image": "https://i.pinimg.com/originals/84/5c/61/845c61b820f9029d2d48bc00aec14bdc.jpg"
-    },
-    {
-        "id": "294985844349755218",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers63",
-        "image": "https://i.pinimg.com/originals/34/e0/6c/34e06ca9288bec13d02bcd3eebd976aa.jpg"
-    },
-    {
-        "id": "294985844349755213",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers64",
-        "image": "https://i.pinimg.com/originals/cf/14/eb/cf14ebcdfc83e6236f743489f6abedf3.jpg"
-    },
-    {
-        "id": "294985844349755212",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers65",
-        "image": "https://i.pinimg.com/originals/49/d0/ec/49d0ec327f03ddc38834cee782267ecb.jpg"
-    },
-    {
-        "id": "294985844349755207",
-        "name_category": "Ghost_Wallpapers",
-        "title": "Ghost Wallpapers66",
-        "image": "https://i.pinimg.com/originals/0d/90/58/0d9058ed21ff63a05a922780e5527f9e.jpg"
+        "id": "341569952981273561",
+        "name_category": "autumn_wallpapers",
+        "title": "autumn wallpapers",
+        "image": "https://i.pinimg.com/originals/9c/cc/ec/9cccec23549bd18ec7809ca06e4c9cec.jpg"
     }
 ]
 }
