@@ -1,0 +1,362 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/7730990361",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/9764721791",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5496097028992857/3199313446",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/8451640125",
+      "backup_native_ads_Admob_or_applovin":"a8995a944d963112",
+      "backup_ads_banner":"b412c0cf0fd64734",
+      "backup_ads_intertitial":"ceedcec9c6840c40",
+      "backup_ads_rewards":"3f0ae0c221afa9ce",
+      "interval_intertitial":3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "Fantasy_Wallpapers",
+      "image": "https://i.pinimg.com/236x/9f/16/3c/9f163c538edc2a3b1d9f3af030ac05d2.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "810859107924255829",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers1",
+        "image": "https://i.pinimg.com/236x/9f/16/3c/9f163c538edc2a3b1d9f3af030ac05d2.jpg"
+    },
+    {
+        "id": "590464201148779937",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers2",
+        "image": "https://i.pinimg.com/236x/91/6e/2b/916e2b0a46511f36866499d6af2f2ed8.jpg"
+    },
+    {
+        "id": "928515648149060485",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers3",
+        "image": "https://i.pinimg.com/236x/2a/7c/59/2a7c5948457013e9f22b406c0901c715.jpg"
+    },
+    {
+        "id": "703898616775325605",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers4",
+        "image": "https://i.pinimg.com/236x/61/84/9d/61849d184e653e53b0286c5f20c68bed.jpg"
+    },
+    {
+        "id": "60376451244605881",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers5",
+        "image": "https://i.pinimg.com/236x/18/11/a9/1811a941aa39af301dacb538b3e64e7d.jpg"
+    },
+    {
+        "id": "772297036087655825",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers6",
+        "image": "https://i.pinimg.com/236x/e2/0b/ac/e20bacb7f574651b99e2f3ff0b15e3bc.jpg"
+    },
+    {
+        "id": "370913719321273932",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers7",
+        "image": "https://i.pinimg.com/236x/45/cc/b5/45ccb5b37f8be786e33bee934d05f318.jpg"
+    },
+    {
+        "id": "431853051750267793",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers8",
+        "image": "https://i.pinimg.com/originals/42/4b/f1/424bf195569f4bf7d8c155599a8f40ef.jpg"
+    },
+    {
+        "id": "431853051750267787",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers9",
+        "image": "https://i.pinimg.com/originals/1c/e0/cc/1ce0ccafc9d5989e854528269e1c56a0.jpg"
+    },
+    {
+        "id": "431853051750267780",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers10",
+        "image": "https://i.pinimg.com/originals/f0/7e/54/f07e54668b148328f41097b24303694a.jpg"
+    },
+    {
+        "id": "431853051750267775",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers11",
+        "image": "https://i.pinimg.com/originals/49/5f/cb/495fcb3302adbccd58a0378579595ce6.jpg"
+    },
+    {
+        "id": "431853051750267771",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers12",
+        "image": "https://i.pinimg.com/originals/b5/33/0b/b5330b487711ff04582b5d88c443265e.jpg"
+    },
+    {
+        "id": "431853051750267757",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers13",
+        "image": "https://i.pinimg.com/originals/24/c2/01/24c201a48671c60febced0650448e80f.jpg"
+    },
+    {
+        "id": "431853051750267752",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers14",
+        "image": "https://i.pinimg.com/originals/62/6a/56/626a56b75c0c71506461db72dcf516da.jpg"
+    },
+    {
+        "id": "431853051750267734",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers15",
+        "image": "https://i.pinimg.com/originals/8d/28/df/8d28dfd5b1e331c36cecf7b8580ea1c5.jpg"
+    },
+    {
+        "id": "431853051750267731",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers16",
+        "image": "https://i.pinimg.com/originals/f6/e0/5b/f6e05b5e275e1936377e299b63e57224.jpg"
+    },
+    {
+        "id": "431853051750267729",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers17",
+        "image": "https://i.pinimg.com/originals/bf/d1/cb/bfd1cb5f6968a323fd7e7af8a60a824c.jpg"
+    },
+    {
+        "id": "431853051750267721",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers18",
+        "image": "https://i.pinimg.com/originals/f8/34/0d/f8340dfa8ea189594dce66a8f1a7dfc2.jpg"
+    },
+    {
+        "id": "431853051750267720",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers19",
+        "image": "https://i.pinimg.com/originals/dd/ba/b6/ddbab66ba3812fae95cce22859d18d32.jpg"
+    },
+    {
+        "id": "431853051750267717",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers20",
+        "image": "https://i.pinimg.com/originals/03/18/6b/03186b82da8a5c0b8ded23b8504b624d.jpg"
+    },
+    {
+        "id": "431853051750267710",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers21",
+        "image": "https://i.pinimg.com/originals/03/dd/91/03dd91a9972f71735c36485eba6f81dc.jpg"
+    },
+    {
+        "id": "431853051750267707",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers22",
+        "image": "https://i.pinimg.com/originals/82/03/9a/82039a784e2d1e16b14375eb1153286b.jpg"
+    },
+    {
+        "id": "431853051750267704",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers23",
+        "image": "https://i.pinimg.com/originals/34/7b/40/347b4012dad4708546a851927a06c670.jpg"
+    },
+    {
+        "id": "431853051750267699",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers24",
+        "image": "https://i.pinimg.com/originals/8c/4e/9d/8c4e9d3e0664de8a469651b70aad7989.jpg"
+    },
+    {
+        "id": "431853051750267693",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers25",
+        "image": "https://i.pinimg.com/originals/dd/b5/e9/ddb5e959510ee587db0223357545718f.jpg"
+    },
+    {
+        "id": "431853051750267688",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers26",
+        "image": "https://i.pinimg.com/originals/a9/7e/da/a97edab5cb9676360b19a3cbea461a8c.jpg"
+    },
+    {
+        "id": "431853051750267686",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers",
+        "image": "https://i.pinimg.com/originals/b2/2d/8c/b22d8c999c0b2686e90c5cb5be8a54a4.jpg"
+    },
+    {
+        "id": "431853051750267682",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers27",
+        "image": "https://i.pinimg.com/originals/a5/4b/34/a54b3464621f06f44f5d426ac72bedcd.jpg"
+    },
+    {
+        "id": "431853051750267676",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers28",
+        "image": "https://i.pinimg.com/originals/49/f7/32/49f73207f008e9fac04e618742f6e531.jpg"
+    },
+    {
+        "id": "431853051750267669",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers29",
+        "image": "https://i.pinimg.com/originals/58/c6/0c/58c60cdf443a3dfa4d4705505e1dfd04.jpg"
+    },
+    {
+        "id": "431853051750267667",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers30",
+        "image": "https://i.pinimg.com/originals/b5/7f/c9/b57fc93902c36ca15a6ffad37b236001.jpg"
+    },
+    {
+        "id": "1078541810735288191",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers31",
+        "image": "https://i.pinimg.com/236x/9c/d0/d1/9cd0d16ef6c376d1dc0aef15d571d790.jpg"
+    },
+    {
+        "id": "626985579387431276",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers32",
+        "image": "https://i.pinimg.com/236x/4a/8e/ca/4a8eca8a6005f8c332b99c769a0e4d83.jpg"
+    },
+    {
+        "id": "928515648149060485",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers33",
+        "image": "https://i.pinimg.com/236x/2a/7c/59/2a7c5948457013e9f22b406c0901c715.jpg"
+    },
+    {
+        "id": "593278950919339132",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers34",
+        "image": "https://i.pinimg.com/236x/94/c7/be/94c7be59759052a8b6da7342a3cac663.jpg"
+    },
+    {
+        "id": "120963939979895562",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers35",
+        "image": "https://i.pinimg.com/236x/2d/67/0c/2d670cac4d2384234e36568d7ed16079.jpg"
+    },
+    {
+        "id": "612067405621531885",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers36",
+        "image": "https://i.pinimg.com/236x/6f/50/fa/6f50fa5a97721cb07888f6bf5f75cd84.jpg"
+    },
+    {
+        "id": "899875569266047142",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers37",
+        "image": "https://i.pinimg.com/236x/cc/13/d8/cc13d8d2efe188970b4ad7820c899d4c.jpg"
+    },
+    {
+        "id": "685039793334180784",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers38",
+        "image": "https://i.pinimg.com/236x/2d/d7/b0/2dd7b0e869c80d3cb4fbcb8bc5ba9846.jpg"
+    },
+    {
+        "id": "490118371920115277",
+        "name_category": "Fantasy_Wallpapers",
+        "title": "Fantasy Wallpapers39",
+        "image": "https://i.pinimg.com/originals/d5/26/4e/d5264e3272773032493b841ecf157b85.jpg"
+    }
+]
+}
