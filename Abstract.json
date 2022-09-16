@@ -104,6 +104,24 @@
       "title":"Nature",
       "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    },
+     {
+      "id":14,
+      "title":"Classic",
+      "image":"https://play-lh.googleusercontent.com/_XZ8itVdqqWCUaQe8_KB20ZpVMCW_ymtMmxYn3IzNwQKsGqopyjX1uiFpyOedUoNYQs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Classic"
+    },
+    {
+      "id":15,
+      "title":"Ferrari",
+      "image":"https://play-lh.googleusercontent.com/XkFdsoy7iwIDf2CZhrOsrm3_NtORW-17YFbNyq4y32cuSWnCqrwL_jfGovoWoJoQb_g=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ferrari"
+    },
+    {
+      "id":16,
+      "title":"Lamborghini",
+      "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
     }
   ],
 
