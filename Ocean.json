@@ -1,0 +1,413 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/5786690595",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/8955531991",
+      "main_ads_natives":"ca-app-pub-5496097028992857/9546010195",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/5989908569",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-5496097028992857/4293683515",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial":3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+   [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    },
+    {
+      "id":14,
+      "title":"Classic",
+      "image":"https://play-lh.googleusercontent.com/_XZ8itVdqqWCUaQe8_KB20ZpVMCW_ymtMmxYn3IzNwQKsGqopyjX1uiFpyOedUoNYQs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Classic"
+    },
+    {
+      "id":15,
+      "title":"Ferrari",
+      "image":"https://play-lh.googleusercontent.com/XkFdsoy7iwIDf2CZhrOsrm3_NtORW-17YFbNyq4y32cuSWnCqrwL_jfGovoWoJoQb_g=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ferrari"
+    },
+    {
+      "id":16,
+      "title":"Lamborghini",
+      "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "ocean_wallpapers",
+      "image": "https://i.pinimg.com/236x/7b/27/67/7b27679ab4e2c2add349eb984d1497da.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "592504894741193158",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers1",
+        "image": "https://i.pinimg.com/236x/7b/27/67/7b27679ab4e2c2add349eb984d1497da.jpg"
+    },
+    {
+        "id": "291326669652398385",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers2",
+        "image": "https://i.pinimg.com/236x/25/65/e7/2565e7bcf6ba1df1ffd9956381c41f5e.jpg"
+    },
+    {
+        "id": "18647785947707017",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers3",
+        "image": "https://i.pinimg.com/236x/46/f2/20/46f2207f5b6fea5fd54954224540f080.jpg"
+    },
+    {
+        "id": "114208540541936373",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers4",
+        "image": "https://i.pinimg.com/236x/ba/e9/ca/bae9ca1d52ced0baa0d7157ba37b93e7.jpg"
+    },
+    {
+        "id": "735001601700747023",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers5",
+        "image": "https://i.pinimg.com/236x/86/fd/85/86fd85e5fcc47ddc17dc393d73f31e0c.jpg"
+    },
+    {
+        "id": "325314773097610801",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers6",
+        "image": "https://i.pinimg.com/236x/3e/7a/51/3e7a5130909c2097ed3f84be8826eecc.jpg"
+    },
+    {
+        "id": "606297168597881183",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers7",
+        "image": "https://i.pinimg.com/236x/8f/25/b3/8f25b3139590f8e1fb91dc2f55c03e83.jpg"
+    },
+    {
+        "id": "27232772734742844",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers8",
+        "image": "https://i.pinimg.com/236x/80/aa/0c/80aa0c8576eb7514764c59874a4c2a89.jpg"
+    },
+    {
+        "id": "453526624971683505",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers9",
+        "image": "https://i.pinimg.com/originals/00/9e/59/009e59b9df936efc79f2089d55181766.jpg"
+    },
+    {
+        "id": "556264991477570772",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers10",
+        "image": "https://i.pinimg.com/236x/3c/6d/f2/3c6df2e66ad80610fab0276530b80e78.jpg"
+    },
+    {
+        "id": "352195633366081850",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers11",
+        "image": "https://i.pinimg.com/236x/e1/90/b9/e190b9fe38df440c14434ad90f079b65.jpg"
+    },
+    {
+        "id": "844493667628556",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers12",
+        "image": "https://i.pinimg.com/236x/55/6c/4a/556c4a64a715ee84c071413041140bf2.jpg"
+    },
+    {
+        "id": "832040099899935342",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers13",
+        "image": "https://i.pinimg.com/236x/83/ac/9f/83ac9f6831ba35beb55e6d4488c58171--great-white-shark-ocean.jpg"
+    },
+    {
+        "id": "265360603030375517",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers14",
+        "image": "https://i.pinimg.com/236x/00/b0/3b/00b03bd64937c5e218ba2aa86f30084b.jpg"
+    },
+    {
+        "id": "174655291790761896",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers15",
+        "image": "https://i.pinimg.com/236x/29/e8/ca/29e8ca17fd062195e4f9462c550a58d7.jpg"
+    },
+    {
+        "id": "581738476881510947",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers16",
+        "image": "https://i.pinimg.com/236x/ab/a6/f1/aba6f113a6efe17d402a84ab5406916a.jpg"
+    },
+    {
+        "id": "672443788126295084",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers17",
+        "image": "https://i.pinimg.com/236x/04/f5/1b/04f51b504b89e48c20ba10f9ad947377.jpg"
+    },
+    {
+        "id": "453526624971683505",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers18",
+        "image": "https://i.pinimg.com/originals/00/9e/59/009e59b9df936efc79f2089d55181766.jpg"
+    },
+    {
+        "id": "556264991477570772",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers19",
+        "image": "https://i.pinimg.com/236x/3c/6d/f2/3c6df2e66ad80610fab0276530b80e78.jpg"
+    },
+    {
+        "id": "832040099899935342",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers20",
+        "image": "https://i.pinimg.com/236x/83/ac/9f/83ac9f6831ba35beb55e6d4488c58171--great-white-shark-ocean.jpg"
+    },
+    {
+        "id": "654921970828156139",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers21",
+        "image": "https://i.pinimg.com/236x/b8/e4/06/b8e406a262a9bed09bbca1b0630ab4f0.jpg"
+    },
+    {
+        "id": "174655291790761896",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers22",
+        "image": "https://i.pinimg.com/236x/29/e8/ca/29e8ca17fd062195e4f9462c550a58d7.jpg"
+    },
+    {
+        "id": "400538960617307336",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers23",
+        "image": "https://i.pinimg.com/236x/96/81/5b/96815bbd5b757853942f57b344ad2cd6.jpg"
+    },
+    {
+        "id": "804103708475238383",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers24",
+        "image": "https://i.pinimg.com/236x/10/4b/54/104b54c5bc34c35461c5b10d2a7a7cc3.jpg"
+    },
+    {
+        "id": "672443788126295084",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers",
+        "image": "https://i.pinimg.com/236x/04/f5/1b/04f51b504b89e48c20ba10f9ad947377.jpg"
+    },
+    {
+        "id": "91127592447570443",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers25",
+        "image": "https://i.pinimg.com/236x/72/ee/df/72eedf39b9fc09d1ff640df23152b0f0.jpg"
+    },
+    {
+        "id": "453526624971683505",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers26",
+        "image": "https://i.pinimg.com/originals/00/9e/59/009e59b9df936efc79f2089d55181766.jpg"
+    },
+    {
+        "id": "765049055463911490",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers27",
+        "image": "https://i.pinimg.com/236x/01/35/81/01358163d0cb3185caca65860ece92a7.jpg"
+    },
+    {
+        "id": "556264991477570772",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers28",
+        "image": "https://i.pinimg.com/236x/3c/6d/f2/3c6df2e66ad80610fab0276530b80e78.jpg"
+    },
+    {
+        "id": "1087830484967672954",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers29",
+        "image": "https://i.pinimg.com/236x/9e/5e/04/9e5e040e70918441a179bd05cff88ccb.jpg"
+    },
+    {
+        "id": "844493667628556",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers30",
+        "image": "https://i.pinimg.com/236x/55/6c/4a/556c4a64a715ee84c071413041140bf2.jpg"
+    },
+    {
+        "id": "64739313385629167",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers31",
+        "image": "https://i.pinimg.com/236x/85/9b/98/859b989255dd23474d583d0bc7abdd8b.jpg"
+    },
+    {
+        "id": "518054763395271630",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers32",
+        "image": "https://i.pinimg.com/236x/3a/84/2d/3a842dfa0c36d34ffc32c45804d831ed.jpg"
+    },
+    {
+        "id": "832040099899935342",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers33",
+        "image": "https://i.pinimg.com/236x/83/ac/9f/83ac9f6831ba35beb55e6d4488c58171--great-white-shark-ocean.jpg"
+    },
+    {
+        "id": "28499410131219402",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers34",
+        "image": "https://i.pinimg.com/236x/56/c7/0b/56c70b053908e194b4e3fe0548a84011.jpg"
+    },
+    {
+        "id": "453526624971683505",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers35",
+        "image": "https://i.pinimg.com/originals/00/9e/59/009e59b9df936efc79f2089d55181766.jpg"
+    },
+    {
+        "id": "578079302161534322",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers36",
+        "image": "https://i.pinimg.com/236x/4e/14/b9/4e14b97539ac68fa76967fe721832ac3.jpg"
+    },
+    {
+        "id": "556264991477570772",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers37",
+        "image": "https://i.pinimg.com/236x/3c/6d/f2/3c6df2e66ad80610fab0276530b80e78.jpg"
+    },
+    {
+        "id": "464222674098977440",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers38",
+        "image": "https://i.pinimg.com/236x/81/8d/3f/818d3f3c17b9f0add32aaf8a5bbe04c3.jpg"
+    },
+    {
+        "id": "832040099899935342",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers39",
+        "image": "https://i.pinimg.com/236x/83/ac/9f/83ac9f6831ba35beb55e6d4488c58171--great-white-shark-ocean.jpg"
+    },
+    {
+        "id": "654921970828156139",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers40",
+        "image": "https://i.pinimg.com/236x/b8/e4/06/b8e406a262a9bed09bbca1b0630ab4f0.jpg"
+    },
+    {
+        "id": "174655291790761896",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers41",
+        "image": "https://i.pinimg.com/236x/29/e8/ca/29e8ca17fd062195e4f9462c550a58d7.jpg"
+    },
+    {
+        "id": "581738476881510947",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers42",
+        "image": "https://i.pinimg.com/236x/ab/a6/f1/aba6f113a6efe17d402a84ab5406916a.jpg"
+    },
+    {
+        "id": "291326669652398385",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers43",
+        "image": "https://i.pinimg.com/236x/25/65/e7/2565e7bcf6ba1df1ffd9956381c41f5e.jpg"
+    },
+    {
+        "id": "453526624971683505",
+        "name_category": "ocean_wallpapers",
+        "title": "ocean wallpapers44",
+        "image": "https://i.pinimg.com/originals/00/9e/59/009e59b9df936efc79f2089d55181766.jpg"
+    }
+]
+}
