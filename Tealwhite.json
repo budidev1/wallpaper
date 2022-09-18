@@ -1,0 +1,467 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/5786690595",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/8955531991",
+      "main_ads_natives":"ca-app-pub-5496097028992857/9546010195",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/5989908569",
+      "backup_ads_natives":"53ac77fe6fbf7838",
+      "backup_ads_banner":"611168415107bbdc",
+      "backup_ads_intertitial":"7ca5786e71f8998e",
+      "backup_ads_rewards":"590184492318004c",
+      "open_ads_admob":"ca-app-pub-5496097028992857/4293683515",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial":3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+   [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    },
+    {
+      "id":14,
+      "title":"Classic",
+      "image":"https://play-lh.googleusercontent.com/_XZ8itVdqqWCUaQe8_KB20ZpVMCW_ymtMmxYn3IzNwQKsGqopyjX1uiFpyOedUoNYQs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Classic"
+    },
+    {
+      "id":15,
+      "title":"Ferrari",
+      "image":"https://play-lh.googleusercontent.com/XkFdsoy7iwIDf2CZhrOsrm3_NtORW-17YFbNyq4y32cuSWnCqrwL_jfGovoWoJoQb_g=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ferrari"
+    },
+    {
+      "id":16,
+      "title":"Lamborghini",
+      "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
+    },
+    {
+      "id":17,
+      "title":"Fantasy",
+      "image":"https://play-lh.googleusercontent.com/A7uk-C6y8cuzSU7GogdDi-Newr6SbRuE8Nf3kNYDzC9jXDYn7hikv5asEXPcX6QsCg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Fantasy"
+    },
+    {
+      "id":18,
+      "title":"Autumn",
+      "image":"https://play-lh.googleusercontent.com/fcjVOdYf6URo-Leldl5F3h1FlhOMU79Oz6Qxy9QYa_6HkwqsxuaP2x70w5qMWb-sYKjt=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ghosts"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "teal_white_themes",
+      "image": "https://i.pinimg.com/236x/e2/d7/98/e2d79857d782f073c197ece435dc4ca5.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "155303887710501031",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes1",
+        "image": "https://i.pinimg.com/236x/e2/d7/98/e2d79857d782f073c197ece435dc4ca5.jpg"
+    },
+    {
+        "id": "168814686021777883",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes2",
+        "image": "https://i.pinimg.com/236x/58/fd/8b/58fd8b5b154c52d11eee1c7734ea8d01.jpg"
+    },
+    {
+        "id": "345721708906268055",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes3",
+        "image": "https://i.pinimg.com/236x/63/65/3b/63653b02e2a318028a1c84d5c3573727.jpg"
+    },
+    {
+        "id": "935763628799159852",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes4",
+        "image": "https://i.pinimg.com/236x/f2/b8/dd/f2b8dda9c95ee5b8cbf87b3ca050de07.jpg"
+    },
+    {
+        "id": "10907224084605620",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes5",
+        "image": "https://i.pinimg.com/236x/d5/2a/25/d52a25c27d7e3284f1f6a240a0984a51.jpg"
+    },
+    {
+        "id": "256986722475632111",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes6",
+        "image": "https://i.pinimg.com/236x/e5/83/93/e583938da031b9baed153e459b96d9f3.jpg"
+    },
+    {
+        "id": "28640147621545094",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes7",
+        "image": "https://i.pinimg.com/236x/fd/77/9c/fd779c0a7c4b0195aecc79600689bac2.jpg"
+    },
+    {
+        "id": "54324739246279400",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes8",
+        "image": "https://i.pinimg.com/236x/f2/3d/76/f23d760ad53d6fa5f3de6620f696cf3b.jpg"
+    },
+    {
+        "id": "135459901279586305",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes9",
+        "image": "https://i.pinimg.com/236x/97/34/32/9734321410bf22014b60bf21fd043524.jpg"
+    },
+    {
+        "id": "217650594468114313",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes10",
+        "image": "https://i.pinimg.com/236x/6e/f1/63/6ef16343374718dd1a9c3329fc0b4973--sugar-sprinkles-chocolate-dipped-pretzels.jpg"
+    },
+    {
+        "id": "873979871416684848",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes11",
+        "image": "https://i.pinimg.com/236x/d7/1c/aa/d71caa341040158280e978284d6b150f.jpg"
+    },
+    {
+        "id": "342836590399306624",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes12",
+        "image": "https://i.pinimg.com/236x/00/55/93/005593baf868fed34918f88b8fea4da3--wedding-reception-decorations-wedding-receptions.jpg"
+    },
+    {
+        "id": "27795722691361827",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes13",
+        "image": "https://i.pinimg.com/236x/38/62/c9/3862c977edb71ada2209e3956126d3f6.jpg"
+    },
+    {
+        "id": "394768723583182941",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes14",
+        "image": "https://i.pinimg.com/236x/bf/9e/fe/bf9efe5af5b2efb4c663322615c6974c--owl-classroom-free-calendars.jpg"
+    },
+    {
+        "id": "27795722683142466",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes15",
+        "image": "https://i.pinimg.com/236x/1e/ca/90/1eca902617f56aa45ba15130f497a310.jpg"
+    },
+    {
+        "id": "908953137374944862",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes16",
+        "image": "https://i.pinimg.com/236x/73/7c/aa/737caac951e72217e8b183e1ede19952.jpg"
+    },
+    {
+        "id": "33777065925446189",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes17",
+        "image": "https://i.pinimg.com/236x/31/23/54/312354e05e0099bca4f2f1540f5ca036--zenyatta-mondatta-pillow-fabric.jpg"
+    },
+    {
+        "id": "243968504806279600",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes18",
+        "image": "https://i.pinimg.com/236x/a2/54/57/a254570e0ea9a6277e71bacf84598166--abstract-flower-paintings-abstract-flowers.jpg"
+    },
+    {
+        "id": "530017449907739053",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes19",
+        "image": "https://i.pinimg.com/236x/1a/38/fb/1a38fb027859c4ded2de5d18b9aac1f8.jpg"
+    },
+    {
+        "id": "27795722684846938",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes20",
+        "image": "https://i.pinimg.com/236x/80/08/0d/80080d732a02fa10ad254e772544230c.jpg"
+    },
+    {
+        "id": "478226054152206709",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes21",
+        "image": "https://i.pinimg.com/originals/30/84/94/30849417b13ea1d0721eea361142b92b.jpg"
+    },
+    {
+        "id": "155303887712129844",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes22",
+        "image": "https://i.pinimg.com/236x/d5/b0/22/d5b0227ef2feef0557f718388c85522b.jpg"
+    },
+    {
+        "id": "18507048442309050",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes23",
+        "image": "https://i.pinimg.com/236x/c1/0d/29/c10d29481bc74fac4c61448aead52e41--interior-designing-white-bedrooms.jpg"
+    },
+    {
+        "id": "746964288215801356",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes24",
+        "image": "https://i.pinimg.com/236x/98/7f/48/987f4809dd891bbc4af81f436d2804a7.jpg"
+    },
+    {
+        "id": "382946774564427387",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes25",
+        "image": "https://i.pinimg.com/236x/1d/28/8d/1d288df3dd4666b965d9c6cb14fd934c--yellow-weddings-teal-and-yellow-wedding.jpg"
+    },
+    {
+        "id": "720294534163415115",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes26",
+        "image": "https://i.pinimg.com/236x/c0/3c/2e/c03c2e0b8fb2d697c8db9897cc2f501a.jpg"
+    },
+    {
+        "id": "612982199285331562",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes27",
+        "image": "https://i.pinimg.com/236x/d7/10/59/d710591490c756d48047ab27a35b13ce.jpg"
+    },
+    {
+        "id": "264516178106632626",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes28",
+        "image": "https://i.pinimg.com/236x/56/2d/66/562d669edcc2f52dad5e8a304d12d437.jpg"
+    },
+    {
+        "id": "155303887340218605",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes29",
+        "image": "https://i.pinimg.com/236x/82/06/81/820681a73306f99b3c2bcb3aff637f27.jpg"
+    },
+    {
+        "id": "155303887593450642",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes30",
+        "image": "https://i.pinimg.com/236x/c7/30/7e/c7307e3f2ba17aa07f01a769b04aec3b.jpg"
+    },
+    {
+        "id": "155303887340218599",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes31",
+        "image": "https://i.pinimg.com/236x/6a/6e/78/6a6e7811de48f3cfdab8afa1774d0bc4.jpg"
+    },
+    {
+        "id": "74661306314909676",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes32",
+        "image": "https://i.pinimg.com/236x/c0/9c/e7/c09ce7bb681e2cd0d22b26df96c3b14b.jpg"
+    },
+    {
+        "id": "619807967489334950",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes33",
+        "image": "https://i.pinimg.com/236x/c7/06/6c/c7066c149c8bf79c05201b4bb95d4e07.jpg"
+    },
+    {
+        "id": "33777065925446189",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes34",
+        "image": "https://i.pinimg.com/236x/31/23/54/312354e05e0099bca4f2f1540f5ca036--zenyatta-mondatta-pillow-fabric.jpg"
+    },
+    {
+        "id": "908953137534436136",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes35",
+        "image": "https://i.pinimg.com/236x/5a/0b/28/5a0b282a5e2e06a858f922cbdf6a0e61.jpg"
+    },
+    {
+        "id": "735353445422275040",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes36",
+        "image": "https://i.pinimg.com/236x/31/6f/e5/316fe576cd71ccfd22fe0300882759ce.jpg"
+    },
+    {
+        "id": "67976275609112362",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes37",
+        "image": "https://i.pinimg.com/236x/d9/a9/8f/d9a98f51f600009cd26cde66d04e9032--peacock-themed-wedding-peacock-wedding-ideas.jpg"
+    },
+    {
+        "id": "11892386489185096",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes38",
+        "image": "https://i.pinimg.com/236x/e2/33/43/e23343401563cc0edbbc5a440ff95d37--turquoise-christmas-teal-blue.jpg"
+    },
+    {
+        "id": "908953137409598172",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes39",
+        "image": "https://i.pinimg.com/236x/8f/eb/6e/8feb6e4a72c349049422e524eac92d1c.jpg"
+    },
+    {
+        "id": "488359153320601470",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes40",
+        "image": "https://i.pinimg.com/236x/53/07/c4/5307c459c32a11fe5ea59f27cb9938ce--for-the-home-at-home.jpg"
+    },
+    {
+        "id": "908953137409598179",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes41",
+        "image": "https://i.pinimg.com/236x/b9/a0/00/b9a00030b21c303b3b9e01d538e5972c.jpg"
+    },
+    {
+        "id": "1125968626475695",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes42",
+        "image": "https://i.pinimg.com/236x/c4/d5/28/c4d52823a8a67ab751845a42c5e2026b--coffee-cups-teacups.jpg"
+    },
+    {
+        "id": "513621532493082124",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes43",
+        "image": "https://i.pinimg.com/originals/6a/38/50/6a3850fe7122d35955f587e68686b959.jpg"
+    },
+    {
+        "id": "41025046596806840",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes44",
+        "image": "https://i.pinimg.com/236x/ea/3e/c3/ea3ec3eec5d720e7c188c8b90a1c6315.jpg"
+    },
+    {
+        "id": "1094867359384284771",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes45",
+        "image": "https://i.pinimg.com/236x/4c/cc/b7/4cccb73cf49df4884364c1b0f806dc0c.jpg"
+    },
+    {
+        "id": "678073287660318035",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes46",
+        "image": "https://i.pinimg.com/236x/c6/9d/d8/c69dd874b88834deb86fde506f3ab5d6.jpg"
+    },
+    {
+        "id": "298363544040153139",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes47",
+        "image": "https://i.pinimg.com/236x/04/c0/e9/04c0e9cee4b16c331b36f6639b575b7c--mermaid-birthday-party-ideas-little-mermaid-birthday.jpg"
+    },
+    {
+        "id": "296815431661519065",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes48",
+        "image": "https://i.pinimg.com/236x/07/93/f7/0793f7ccfc2691e1807b91d4d72d1c26--peacock-wedding-cake-peacock-cake.jpg"
+    },
+    {
+        "id": "80853755801887861",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes49",
+        "image": "https://i.pinimg.com/236x/da/ed/3f/daed3faede80d3cc3aa599df16d2e2cd.jpg"
+    },
+    {
+        "id": "837951074409816785",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes50",
+        "image": "https://i.pinimg.com/236x/14/74/d1/1474d1f067b03bda5083dbc9c8ff9cc3.jpg"
+    },
+    {
+        "id": "822892163164350173",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes51",
+        "image": "https://i.pinimg.com/236x/a5/b5/3f/a5b53f1df2e681c7ce11ed52df32604f.jpg"
+    },
+    {
+        "id": "329325791506766255",
+        "name_category": "teal_white_themes",
+        "title": "teal white themes52",
+        "image": "https://i.pinimg.com/originals/e1/75/24/e175245a77b520450a1f1b7e02f52347.jpg"
+    }
+]
+}
