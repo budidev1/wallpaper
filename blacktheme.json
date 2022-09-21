@@ -1,0 +1,479 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/4852952681",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/4708686298",
+      "main_ads_natives":"ca-app-pub-5496097028992857/4165760819",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/9418087492",
+      "backup_ads_natives":"7ccd230c16d946d7",
+      "backup_ads_banner":"4a050b50e9f007f2",
+      "backup_ads_intertitial":"6bf840d265f9c0d2",
+      "backup_ads_rewards":"95fe05614f688911",
+      "open_ads_admob":"ca-app-pub-5496097028992857/5993847805",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial":3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+   [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    },
+    {
+      "id":14,
+      "title":"Classic",
+      "image":"https://play-lh.googleusercontent.com/_XZ8itVdqqWCUaQe8_KB20ZpVMCW_ymtMmxYn3IzNwQKsGqopyjX1uiFpyOedUoNYQs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Classic"
+    },
+    {
+      "id":15,
+      "title":"Ferrari",
+      "image":"https://play-lh.googleusercontent.com/XkFdsoy7iwIDf2CZhrOsrm3_NtORW-17YFbNyq4y32cuSWnCqrwL_jfGovoWoJoQb_g=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ferrari"
+    },
+    {
+      "id":16,
+      "title":"Lamborghini",
+      "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
+    },
+    {
+      "id":17,
+      "title":"Fantasy",
+      "image":"https://play-lh.googleusercontent.com/A7uk-C6y8cuzSU7GogdDi-Newr6SbRuE8Nf3kNYDzC9jXDYn7hikv5asEXPcX6QsCg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Fantasy"
+    },
+    {
+      "id":18,
+      "title":"Autumn",
+      "image":"https://play-lh.googleusercontent.com/fcjVOdYf6URo-Leldl5F3h1FlhOMU79Oz6Qxy9QYa_6HkwqsxuaP2x70w5qMWb-sYKjt=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ghosts"
+    },
+    {
+      "id":19,
+      "title":"Lion",
+      "image":"https://play-lh.googleusercontent.com/7g_bZ-Ls9DFCFb4ZzGliGEHQOwiQd-7reK26Vz2exF-5eYgeBWx1_xpooLagyscYtHQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lion"
+    },
+    {
+      "id":20,
+      "title":"Love and Hearts",
+      "image":"https://play-lh.googleusercontent.com/ONOZ_a_xPYBOJR9_V5zoQSGBvnpcOPw6Y4xAZs7i406FrECUQBaaNpQmrRwSpXghMg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.LoveandHearts"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "black_theme_wallpapers",
+      "image": "https://i.pinimg.com/236x/52/fc/71/52fc716b654da70462dfd0284543c7ee.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "837177018245558442",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers1",
+        "image": "https://i.pinimg.com/236x/52/fc/71/52fc716b654da70462dfd0284543c7ee.jpg"
+    },
+    {
+        "id": "832532681132012748",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers2",
+        "image": "https://i.pinimg.com/236x/3b/12/6f/3b126fdbaf7784735109552f32295f2f.jpg"
+    },
+    {
+        "id": "1091700765904236432",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers3",
+        "image": "https://i.pinimg.com/236x/7f/1c/b3/7f1cb36e3e0d11b003422da1c66de3d7.jpg"
+    },
+    {
+        "id": "1020417228045887600",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers4",
+        "image": "https://i.pinimg.com/236x/a3/2c/0d/a32c0d58afa78f52016e7deb83ca042c.jpg"
+    },
+    {
+        "id": "687432330641985178",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers5",
+        "image": "https://i.pinimg.com/236x/1e/33/13/1e33137b0aa69ad1cfacd4011b1ace89.jpg"
+    },
+    {
+        "id": "833095631093913729",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers6",
+        "image": "https://i.pinimg.com/236x/f3/12/ea/f312ea9de961aa7628e5ae09908ccf3f.jpg"
+    },
+    {
+        "id": "659073726734037114",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers7",
+        "image": "https://i.pinimg.com/236x/34/ac/77/34ac77a20813651e4ebe746499b6926d.jpg"
+    },
+    {
+        "id": "593067844649246509",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers8",
+        "image": "https://i.pinimg.com/originals/c3/67/2d/c3672db3f23c954437b4607ecc9caa0d.jpg"
+    },
+    {
+        "id": "593067844649224285",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers9",
+        "image": "https://i.pinimg.com/originals/b8/3e/2a/b83e2a858e6aa639d75448c11b154a6f.jpg"
+    },
+    {
+        "id": "593067844649224170",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers10",
+        "image": "https://i.pinimg.com/originals/b6/22/7c/b6227cd5685b7309bee7406972fc9724.jpg"
+    },
+    {
+        "id": "593067844649224169",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers11",
+        "image": "https://i.pinimg.com/originals/36/67/aa/3667aa06781c7aabb46bb8cac0a45864.jpg"
+    },
+    {
+        "id": "593067844649224168",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers12",
+        "image": "https://i.pinimg.com/originals/f6/61/4d/f6614d9ec79663444b832a24d4215a1b.jpg"
+    },
+    {
+        "id": "593067844649224167",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers13",
+        "image": "https://i.pinimg.com/originals/ea/70/4e/ea704e096fb5e5c645186b018c800932.jpg"
+    },
+    {
+        "id": "593067844649224164",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers14",
+        "image": "https://i.pinimg.com/originals/09/73/5c/09735c8f1ed1424a3ce12484a51bc001.jpg"
+    },
+    {
+        "id": "593067844649224163",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers15",
+        "image": "https://i.pinimg.com/originals/07/0d/3c/070d3cc3cc08c919129ad3fc52105e94.jpg"
+    },
+    {
+        "id": "593067844649224156",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers16",
+        "image": "https://i.pinimg.com/originals/74/34/87/743487b37bc5fa88d1028d0a52c736d2.jpg"
+    },
+    {
+        "id": "593067844649223897",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers17",
+        "image": "https://i.pinimg.com/originals/22/aa/b5/22aab5925ad2b00750f5984ca0ed8135.jpg"
+    },
+    {
+        "id": "593067844649223896",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers18",
+        "image": "https://i.pinimg.com/originals/65/b9/59/65b959b8b7a15a8350c0c2db009ca1d3.jpg"
+    },
+    {
+        "id": "593067844649223893",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers19",
+        "image": "https://i.pinimg.com/originals/29/ce/77/29ce772e1318b681f5851726fc9922ed.jpg"
+    },
+    {
+        "id": "593067844649223892",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers20",
+        "image": "https://i.pinimg.com/originals/f2/a5/b1/f2a5b1429c02e1bfa215fb568608b5a2.jpg"
+    },
+    {
+        "id": "593067844649223890",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers21",
+        "image": "https://i.pinimg.com/originals/00/71/cf/0071cfada30714e3bb370c27bc08cfa4.jpg"
+    },
+    {
+        "id": "593067844649223889",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers22",
+        "image": "https://i.pinimg.com/originals/92/d8/7c/92d87cb983ab55d142b8e3d1ba868ce1.jpg"
+    },
+    {
+        "id": "593067844649223667",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers23",
+        "image": "https://i.pinimg.com/originals/7f/dd/62/7fdd6254ba1ac19f797971bb9eea5b95.jpg"
+    },
+    {
+        "id": "593067844649198970",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers24",
+        "image": "https://i.pinimg.com/originals/4f/8d/2c/4f8d2c121e09a660fa046240732f9c39.jpg"
+    },
+    {
+        "id": "593067844649198829",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers25",
+        "image": "https://i.pinimg.com/originals/bb/0b/d6/bb0bd64d5222ff6a72991c1cba6212dd.jpg"
+    },
+    {
+        "id": "593067844649198781",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers26",
+        "image": "https://i.pinimg.com/originals/06/e6/bf/06e6bf9998bc7030dac17aa9f51e55a1.jpg"
+    },
+    {
+        "id": "593067844649198774",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers27",
+        "image": "https://i.pinimg.com/originals/8e/ff/aa/8effaaeb2cdad98fc013ce703495b4b5.jpg"
+    },
+    {
+        "id": "593067844649198773",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers28",
+        "image": "https://i.pinimg.com/originals/58/91/59/5891591da522df6b9dcfd93152ca366a.jpg"
+    },
+    {
+        "id": "593067844649198772",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers29",
+        "image": "https://i.pinimg.com/originals/3c/28/96/3c2896794373b8257c61256ef465d4c0.jpg"
+    },
+    {
+        "id": "593067844649198770",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers30",
+        "image": "https://i.pinimg.com/originals/d6/a9/3b/d6a93b218f323cb45504b89351f35979.png"
+    },
+    {
+        "id": "593067844649198768",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers31",
+        "image": "https://i.pinimg.com/originals/61/ff/2a/61ff2af73c64aed9810047b78e81e666.jpg"
+    },
+    {
+        "id": "593067844649198766",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers32",
+        "image": "https://i.pinimg.com/originals/f8/3d/64/f83d64c51be3d474fcf748065bef3f8d.jpg"
+    },
+    {
+        "id": "240872280061506564",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers33",
+        "image": "https://i.pinimg.com/236x/a0/6a/ad/a06aad822d66a5cb07fd69503b3c9c66.jpg"
+    },
+    {
+        "id": "668503138445546840",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers34",
+        "image": "https://i.pinimg.com/236x/15/05/9e/15059ee5b7adc13be00876f86388bff4.jpg"
+    },
+    {
+        "id": "635148353706335571",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers35",
+        "image": "https://i.pinimg.com/236x/79/5a/1a/795a1a3f3ec8f2b93d76db14be6d23d1.jpg"
+    },
+    {
+        "id": "775745104575698857",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers36",
+        "image": "https://i.pinimg.com/236x/07/3c/f6/073cf600b97df88cb4a82267485b02bd.jpg"
+    },
+    {
+        "id": "320529698490717808",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers37",
+        "image": "https://i.pinimg.com/236x/46/63/77/466377e5a356462cf4f4bae78bdeb331.jpg"
+    },
+    {
+        "id": "633670610080098955",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers38",
+        "image": "https://i.pinimg.com/236x/34/55/c8/3455c8b2e51d08da677fadd20ab88562.jpg"
+    },
+    {
+        "id": "1032168808322203530",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers39",
+        "image": "https://i.pinimg.com/236x/0a/43/04/0a43046d0d4cc19c1bcfd1be19b74f94.jpg"
+    },
+    {
+        "id": "1144618061519507321",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers40",
+        "image": "https://i.pinimg.com/236x/70/74/ee/7074ee885e7b27f3e9deffee3a1544eb.jpg"
+    },
+    {
+        "id": "282741682846246655",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers41",
+        "image": "https://i.pinimg.com/236x/47/bc/70/47bc70adb89bf6918c27ae6b611188f7.jpg"
+    },
+    {
+        "id": "79376012176011778",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers42",
+        "image": "https://i.pinimg.com/236x/00/d2/ba/00d2ba03a8f58596d23cd86f57bac916.jpg"
+    },
+    {
+        "id": "796292777849971877",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers43",
+        "image": "https://i.pinimg.com/originals/d6/c9/b2/d6c9b2a45ab8e0e652e8a2b9be08dc4d.jpg"
+    },
+    {
+        "id": "240872280061506564",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers44",
+        "image": "https://i.pinimg.com/236x/a0/6a/ad/a06aad822d66a5cb07fd69503b3c9c66.jpg"
+    },
+    {
+        "id": "311170655513583736",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers45",
+        "image": "https://i.pinimg.com/236x/00/d8/a9/00d8a9d2f0c7389b9c8217c04eb9214c.jpg"
+    },
+    {
+        "id": "635148353706335571",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers46",
+        "image": "https://i.pinimg.com/236x/79/5a/1a/795a1a3f3ec8f2b93d76db14be6d23d1.jpg"
+    },
+    {
+        "id": "320529698490717808",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers47",
+        "image": "https://i.pinimg.com/236x/46/63/77/466377e5a356462cf4f4bae78bdeb331.jpg"
+    },
+    {
+        "id": "651333164863135458",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers48",
+        "image": "https://i.pinimg.com/236x/ee/d0/a0/eed0a01e9955955a87a061b816fa8eb5.jpg"
+    },
+    {
+        "id": "1144618061519507321",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers49",
+        "image": "https://i.pinimg.com/236x/70/74/ee/7074ee885e7b27f3e9deffee3a1544eb.jpg"
+    },
+    {
+        "id": "578149670913948469",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers50",
+        "image": "https://i.pinimg.com/236x/93/db/da/93dbdacb250aaed3031e2bbf7a927355.jpg"
+    },
+    {
+        "id": "891149844991350954",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers51",
+        "image": "https://i.pinimg.com/236x/d7/d7/ea/d7d7ea63df9f1d6c96036fc4c5fba880.jpg"
+    },
+    {
+        "id": "156359418303235690",
+        "name_category": "black_theme_wallpapers",
+        "title": "black theme wallpapers52",
+        "image": "https://i.pinimg.com/originals/fd/fb/c2/fdfbc2bcfe93ff10c6f729b0a6750aa0.jpg"
+    }
+]
+}
