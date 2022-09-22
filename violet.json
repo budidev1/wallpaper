@@ -1,0 +1,455 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/2681745606",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/7973600739",
+      "main_ads_natives":"ca-app-pub-5496097028992857/2433784856",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/2685066298",
+      "backup_ads_natives":"016920e84414f80a",
+      "backup_ads_banner":"1c8558301efd00e6",
+      "backup_ads_intertitial":"c33d05037020f4f4",
+      "backup_ads_rewards":"5943940a64a2083b",
+      "open_ads_admob":"ca-app-pub-5496097028992857/3423394903",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial":3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+   [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    },
+    {
+      "id":14,
+      "title":"Classic",
+      "image":"https://play-lh.googleusercontent.com/_XZ8itVdqqWCUaQe8_KB20ZpVMCW_ymtMmxYn3IzNwQKsGqopyjX1uiFpyOedUoNYQs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Classic"
+    },
+    {
+      "id":15,
+      "title":"Ferrari",
+      "image":"https://play-lh.googleusercontent.com/XkFdsoy7iwIDf2CZhrOsrm3_NtORW-17YFbNyq4y32cuSWnCqrwL_jfGovoWoJoQb_g=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ferrari"
+    },
+    {
+      "id":16,
+      "title":"Lamborghini",
+      "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
+    },
+    {
+      "id":17,
+      "title":"Fantasy",
+      "image":"https://play-lh.googleusercontent.com/A7uk-C6y8cuzSU7GogdDi-Newr6SbRuE8Nf3kNYDzC9jXDYn7hikv5asEXPcX6QsCg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Fantasy"
+    },
+    {
+      "id":18,
+      "title":"Autumn",
+      "image":"https://play-lh.googleusercontent.com/fcjVOdYf6URo-Leldl5F3h1FlhOMU79Oz6Qxy9QYa_6HkwqsxuaP2x70w5qMWb-sYKjt=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ghosts"
+    },
+    {
+      "id":19,
+      "title":"Lion",
+      "image":"https://play-lh.googleusercontent.com/7g_bZ-Ls9DFCFb4ZzGliGEHQOwiQd-7reK26Vz2exF-5eYgeBWx1_xpooLagyscYtHQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lion"
+    },
+    {
+      "id":20,
+      "title":"Love and Hearts",
+      "image":"https://play-lh.googleusercontent.com/ONOZ_a_xPYBOJR9_V5zoQSGBvnpcOPw6Y4xAZs7i406FrECUQBaaNpQmrRwSpXghMg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.LoveandHearts"
+    }
+  ],
+
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "violet_theme_wallpapers",
+      "image": "https://i.pinimg.com/236x/c0/69/7e/c0697e34cd826736d753d45680e1e8d2.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "42995371438866452",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers1",
+        "image": "https://i.pinimg.com/236x/f6/18/8f/f6188f9ddafa036c74b902abc7ae1cca.jpg"
+    },
+    {
+        "id": "326862885467086234",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers2",
+        "image": "https://i.pinimg.com/236x/c0/69/7e/c0697e34cd826736d753d45680e1e8d2.jpg"
+    },
+    {
+        "id": "1048212881995218441",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers3",
+        "image": "https://i.pinimg.com/236x/a3/1a/34/a31a34017b09e51f13947d78fad6eb47.jpg"
+    },
+    {
+        "id": "562598178460083378",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers4",
+        "image": "https://i.pinimg.com/236x/64/14/06/641406284abaed009a6a74420b6b24bf.jpg"
+    },
+    {
+        "id": "594615957065024625",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers5",
+        "image": "https://i.pinimg.com/236x/cb/98/17/cb98179cd135ac654fc1ed294f9707c7.jpg"
+    },
+    {
+        "id": "678214025141879287",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers6",
+        "image": "https://i.pinimg.com/236x/ab/d1/d3/abd1d39ef5013ec9bce6a6830c0ac71f.jpg"
+    },
+    {
+        "id": "808325833135262107",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers7",
+        "image": "https://i.pinimg.com/236x/a2/de/a6/a2dea6b5e59243d7a1198fe38e534849.jpg"
+    },
+    {
+        "id": "640707484502147762",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers8",
+        "image": "https://i.pinimg.com/236x/63/5a/7a/635a7a752d6f4b8ca1de0b7941e9e8af.jpg"
+    },
+    {
+        "id": "153755774749370691",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers9",
+        "image": "https://i.pinimg.com/originals/62/d9/4c/62d94ce3d4f7ec5266a2c7d19389667d.jpg"
+    },
+    {
+        "id": "1108167052034184797",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers10",
+        "image": "https://i.pinimg.com/236x/e5/37/fe/e537fe04a24492632c839a64ff25ce92.jpg"
+    },
+    {
+        "id": "631066966563928504",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers11",
+        "image": "https://i.pinimg.com/236x/a2/97/46/a297461d4dc07ca97a893863c612c2d7.jpg"
+    },
+    {
+        "id": "330803535142442412",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers12",
+        "image": "https://i.pinimg.com/236x/1d/72/df/1d72df56a323767f648603f450bb6a7c.jpg"
+    },
+    {
+        "id": "185280972161389130",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers13",
+        "image": "https://i.pinimg.com/236x/a6/71/4d/a6714d42358f21f16310f22fd12f3d49.jpg"
+    },
+    {
+        "id": "659425570457070450",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers14",
+        "image": "https://i.pinimg.com/236x/c9/53/68/c95368658c844b097d2f025c426dd36a.jpg"
+    },
+    {
+        "id": "63613413477811163",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers15",
+        "image": "https://i.pinimg.com/236x/d1/4e/ad/d14eadf5fae645eb3136d2641ff20d2f.jpg"
+    },
+    {
+        "id": "75364993753702797",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers16",
+        "image": "https://i.pinimg.com/236x/8f/a7/8f/8fa78f63973e9f86da8d12ec7bfe4785.jpg"
+    },
+    {
+        "id": "987484655768785727",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers17",
+        "image": "https://i.pinimg.com/236x/39/48/c4/3948c480761c985ef71c6cdceba9ccbf.jpg"
+    },
+    {
+        "id": "626281891921235248",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers18",
+        "image": "https://i.pinimg.com/originals/07/29/dc/0729dc1db099decb181a622b895e2a7a.jpg"
+    },
+    {
+        "id": "344103227789883328",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers19",
+        "image": "https://i.pinimg.com/236x/6c/8a/8a/6c8a8a99a680c9bc7971b618df676932.jpg"
+    },
+    {
+        "id": "649081365053934764",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers20",
+        "image": "https://i.pinimg.com/236x/5d/80/43/5d804342df0666a8c44053d39e6f4da5.jpg"
+    },
+    {
+        "id": "1114148395292539298",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers21",
+        "image": "https://i.pinimg.com/236x/60/53/56/6053561a9e7405a5c64091b951f7f548.jpg"
+    },
+    {
+        "id": "969540626005227632",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers22",
+        "image": "https://i.pinimg.com/236x/0d/a7/a5/0da7a57f471e87f7b22809d5d9df9d2d.jpg"
+    },
+    {
+        "id": "810859107920664782",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers23",
+        "image": "https://i.pinimg.com/236x/9d/79/37/9d793723bed533bcaac9c756d874795c.jpg"
+    },
+    {
+        "id": "748090188117121456",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers24",
+        "image": "https://i.pinimg.com/236x/05/5b/90/055b90ae807798fbc713527f72c0d199.jpg"
+    },
+    {
+        "id": "650066527467183485",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers25",
+        "image": "https://i.pinimg.com/236x/6f/21/dd/6f21dddc6f1f01ada263eb7a56198d43.jpg"
+    },
+    {
+        "id": "649362840016315849",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers26",
+        "image": "https://i.pinimg.com/236x/35/90/84/359084672248ff4b0cb674d34c06cfab.jpg"
+    },
+    {
+        "id": "861032022518357925",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers27",
+        "image": "https://i.pinimg.com/236x/e9/f1/84/e9f184f218397613f67a5b8eea31de8c.jpg"
+    },
+    {
+        "id": "215046950945919730",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers28",
+        "image": "https://i.pinimg.com/originals/7d/2d/28/7d2d286aec3cd4d3856a4f6194134680.jpg"
+    },
+    {
+        "id": "852165560755513991",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers29",
+        "image": "https://i.pinimg.com/236x/08/ed/10/08ed10b2945ea0a11f35cd23535b1677.jpg"
+    },
+    {
+        "id": "857935797781355517",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers30",
+        "image": "https://i.pinimg.com/236x/9d/ba/41/9dba41c18de13b2726e58fc4cde6335d.jpg"
+    },
+    {
+        "id": "637118678548268456",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers31",
+        "image": "https://i.pinimg.com/236x/fe/2c/70/fe2c7038b1698643b9fb3d0d22e8414b.jpg"
+    },
+    {
+        "id": "908953137312578385",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers32",
+        "image": "https://i.pinimg.com/236x/24/0d/bb/240dbba90c4ed20696ff5b8a2d516d20.jpg"
+    },
+    {
+        "id": "908953137312578386",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers33",
+        "image": "https://i.pinimg.com/236x/2b/51/77/2b5177170f4a62a96c74642048305125.jpg"
+    },
+    {
+        "id": "964825920145695466",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers34",
+        "image": "https://i.pinimg.com/236x/b8/09/ad/b809ad5bdb0bec8feb8582dfacea1e14.jpg"
+    },
+    {
+        "id": "52565520642025872",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers35",
+        "image": "https://i.pinimg.com/236x/6a/19/5a/6a195a6950bbc681666458751864be41.jpg"
+    },
+    {
+        "id": "908953137312578400",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers36",
+        "image": "https://i.pinimg.com/236x/bf/57/c1/bf57c1afaafd0d0251f16d8f766a5659.jpg"
+    },
+    {
+        "id": "862228291169830528",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers37",
+        "image": "https://i.pinimg.com/236x/4a/0f/1a/4a0f1acbb3d4046359c1fa14e9fa025d.jpg"
+    },
+    {
+        "id": "314900198952615539",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers38",
+        "image": "https://i.pinimg.com/236x/c5/39/63/c5396369eae96abaf4dc87f6315dd64a.jpg"
+    },
+    {
+        "id": "379850549823192262",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers39",
+        "image": "https://i.pinimg.com/originals/c1/4d/2c/c14d2c8644e4a652056dc3c79c0fb0b4.jpg"
+    },
+    {
+        "id": "768004542712104287",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers40",
+        "image": "https://i.pinimg.com/236x/98/fd/59/98fd5920d35d6efec242dc4e44d376b8.jpg"
+    },
+    {
+        "id": "155022412166015930",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers41",
+        "image": "https://i.pinimg.com/236x/bb/cc/fb/bbccfbf68531d87bd91a37c8c950d062.jpg"
+    },
+    {
+        "id": "512354895113626225",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers42",
+        "image": "https://i.pinimg.com/236x/0f/bc/56/0fbc56fb4029d8b04b032d1cacc9ca46.jpg"
+    },
+    {
+        "id": "657807089336149800",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers43",
+        "image": "https://i.pinimg.com/236x/d0/c6/83/d0c683dd44aa53dad61d79171b99770d.jpg"
+    },
+    {
+        "id": "124482377191763414",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers44",
+        "image": "https://i.pinimg.com/236x/d2/01/ef/d201ef93beeb9eaad909f565e9acfe87.jpg"
+    },
+    {
+        "id": "439241769919921545",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers45",
+        "image": "https://i.pinimg.com/236x/1f/34/dd/1f34dd41b2ebee062d0841adde56749a.jpg"
+    },
+    {
+        "id": "213780313552669111",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers46",
+        "image": "https://i.pinimg.com/236x/f3/fc/e7/f3fce77c107734382fbbb3955d9c5ad7.jpg"
+    },
+    {
+        "id": "992973417816120650",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers47",
+        "image": "https://i.pinimg.com/236x/fe/f1/cb/fef1cb101c2b31b8bcde1bbe2a3fba59.jpg"
+    },
+    {
+        "id": "299700550204904878",
+        "name_category": "violet_theme_wallpapers",
+        "title": "violet theme wallpapers48",
+        "image": "https://i.pinimg.com/originals/60/50/e7/6050e77d5925cc68c12d354caf525c25.png"
+    }
+]
+}
