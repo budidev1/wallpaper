@@ -122,6 +122,36 @@
       "title":"Lamborghini",
       "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
+    },
+    {
+      "id":17,
+      "title":"Fantasy",
+      "image":"https://play-lh.googleusercontent.com/A7uk-C6y8cuzSU7GogdDi-Newr6SbRuE8Nf3kNYDzC9jXDYn7hikv5asEXPcX6QsCg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Fantasy"
+    },
+    {
+      "id":18,
+      "title":"Autumn",
+      "image":"https://play-lh.googleusercontent.com/fcjVOdYf6URo-Leldl5F3h1FlhOMU79Oz6Qxy9QYa_6HkwqsxuaP2x70w5qMWb-sYKjt=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ghosts"
+    },
+    {
+      "id":19,
+      "title":"Lion",
+      "image":"https://play-lh.googleusercontent.com/7g_bZ-Ls9DFCFb4ZzGliGEHQOwiQd-7reK26Vz2exF-5eYgeBWx1_xpooLagyscYtHQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lion"
+    },
+    {
+      "id":20,
+      "title":"Love and Hearts",
+      "image":"https://play-lh.googleusercontent.com/ONOZ_a_xPYBOJR9_V5zoQSGBvnpcOPw6Y4xAZs7i406FrECUQBaaNpQmrRwSpXghMg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.LoveandHearts"
+    },
+    {
+      "id":21,
+      "title":"Teal White Theme",
+      "image":"https://play-lh.googleusercontent.com/q4VyIBUASJCaRDY89lc6lZIUX-lvIjQr-I0LU1X4F_iMgPfHAHAhlmzC7X0j1USP8HjX=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.TealWhite"
     }
   ],
 
