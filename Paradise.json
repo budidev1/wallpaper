@@ -158,6 +158,18 @@
     },
     {
       "id":22,
+      "title":"black Theme",
+      "image":"https://play-lh.googleusercontent.com/TzAfi82htL1qD3pE8d_bWB-DEUstiUKJBebR78i70vElORJR70ZgpHbR3o8135KOCg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.blacktheme"
+    },
+    {
+      "id":23,
+      "title":"Lavender Light",
+      "image":"https://play-lh.googleusercontent.com/xK7hT9ptYW0zrYM9eBjGua6EXBue5jQ-WSxJUba3immwk9PBdMWMck6rVvq_4gV9bns=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.LavenderLight"
+    },
+    {
+      "id":24,
       "title":"Violet Theme",
       "image":"https://play-lh.googleusercontent.com/Onmtz71AmBzrpyrE_q_5WOsvrM-M-hC4Loc1H5EXsBLJ8Z8FrVxQ7QXz_Xd6-8WtJQ=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.violet"
