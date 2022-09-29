@@ -155,6 +155,42 @@
       "title":"Teal White Theme",
       "image":"https://play-lh.googleusercontent.com/q4VyIBUASJCaRDY89lc6lZIUX-lvIjQr-I0LU1X4F_iMgPfHAHAhlmzC7X0j1USP8HjX=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.TealWhite"
+    },
+    {
+      "id":22,
+      "title":"black Theme",
+      "image":"https://play-lh.googleusercontent.com/TzAfi82htL1qD3pE8d_bWB-DEUstiUKJBebR78i70vElORJR70ZgpHbR3o8135KOCg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.blacktheme"
+    },
+    {
+      "id":23,
+      "title":"Lavender Light",
+      "image":"https://play-lh.googleusercontent.com/xK7hT9ptYW0zrYM9eBjGua6EXBue5jQ-WSxJUba3immwk9PBdMWMck6rVvq_4gV9bns=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.LavenderLight"
+    },
+    {
+      "id":24,
+      "title":"Violet Theme",
+      "image":"https://play-lh.googleusercontent.com/Onmtz71AmBzrpyrE_q_5WOsvrM-M-hC4Loc1H5EXsBLJ8Z8FrVxQ7QXz_Xd6-8WtJQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.violet"
+    },
+    {
+      "id":25,
+      "title":"Ocean Theme",
+      "image":"https://play-lh.googleusercontent.com/Hgwn_zuyvIxhfBHAY3AoOuadjlV3wCfYe0eoOvR5mg-eBarjoWBdbXEyqCHORtl9iJk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.OceanTheme"
+    },
+    {
+      "id":26,
+      "title":"Paradise Theme",
+      "image":"https://play-lh.googleusercontent.com/fyL6RhgH38wBQ-H2LpMrNG4qHRQlBD935eIEi_0VQntOpjVFBwxRxYMbtE9EtTJTdn6L=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.sakuraschoolsimulator"
+    },
+    {
+      "id":27,
+      "title":"Sakura",
+      "image":"https://play-lh.googleusercontent.com/BmKcfb6uqB0ny3jM542tFU_fZ4g9vmj2U-W5wpSAcOuFLY_k7PbOo537QbUJi0OC7a-J=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Paradise"
     }
   ],
 
