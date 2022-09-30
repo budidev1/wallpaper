@@ -191,7 +191,19 @@
       "title":"Sakura",
       "image":"https://play-lh.googleusercontent.com/BmKcfb6uqB0ny3jM542tFU_fZ4g9vmj2U-W5wpSAcOuFLY_k7PbOo537QbUJi0OC7a-J=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.Paradise"
-    }
+    },
+    {
+      "id":28,
+      "title":"Colorful",
+      "image":"https://play-lh.googleusercontent.com/qk0mfgZgfRAfe43ktXPoMkVms64Ppg1KCTAvHRZpp2uEStg-S1kGht4zGB4wmTDc8Pw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.colorful"
+    },
+    {
+      "id":29,
+      "title":"Wallpaper Amazing Themes-Full",
+      "image":"https://play-lh.googleusercontent.com/g7zMYf1XFCLa8yrzlp3Hw5CvrMCzB2igWQBnfNNUDyq-bNBWuegzI8uPZbX9hmgp8jk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AmazingFullThemeHDWallpaper"
+    }  
   ],
 
   "Categories": [
