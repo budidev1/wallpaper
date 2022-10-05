@@ -203,7 +203,19 @@
       "title":"Wallpaper Amazing Themes-Full",
       "image":"https://play-lh.googleusercontent.com/g7zMYf1XFCLa8yrzlp3Hw5CvrMCzB2igWQBnfNNUDyq-bNBWuegzI8uPZbX9hmgp8jk=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.AmazingFullThemeHDWallpaper"
-    }  
+    },
+    {
+      "id":30,
+      "title":"Galaxy",
+      "image":"https://play-lh.googleusercontent.com/q0dsYAeHXES_QG2IQncNVKRdq50z6dt6ej0S98oR93OVRhTg16GTHlfolHWC0YHQgg=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Galaxy"
+    },
+    {
+      "id":31,
+      "title":"Keyboard Theme",
+      "image":"https://play-lh.googleusercontent.com/ZuW9vvWbBbVpTxoTjW9w9_Z8D3-4Mj95rm4yy7856crL-4iPEc_8vDG3NzRwWj1bFn0=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.alienkeyboard"
+    }
   ],
 
   "Categories": [
