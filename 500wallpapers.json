@@ -215,14 +215,26 @@
       "title":"Keyboard Theme",
       "image":"https://play-lh.googleusercontent.com/ZuW9vvWbBbVpTxoTjW9w9_Z8D3-4Mj95rm4yy7856crL-4iPEc_8vDG3NzRwWj1bFn0=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.alienkeyboard"
+    },
+    {
+      "id":32,
+      "title":"Boca Toca",
+      "image":"https://play-lh.googleusercontent.com/UnGgZlLkNqpmxgbFNMyrN_iDZVIRrdUN7I1L6u1Pd714avzNyzJmOvQu-AVgZ_jd0w=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.bocatoca"
+    },
+    {
+      "id":33,
+      "title":"Rainbow blue",
+      "image":"https://play-lh.googleusercontent.com/ZWK6hOseEH2cjku07Nfe2DJ2uK7pPQZsbAXwh7N9tnmwHNl0BwR8n6TxN50HFmdBNw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.RainbowBlue"
     }
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "boca_toca",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmGIKAquSz5QRL3vB619zfkaBIL7qAAiLLEnzwdc4i4CXWqq6r5o_lHtNcpJfXzpqQcU&usqp=CAU"
+      "name_category": "Wallpapers_HD_Theme",
+      "image":"https://lh3.googleusercontent.com/QPXRsN-4zTZXES-JjgfTuFhNCcuN3vZyB-EijAYupFW3Om2dcqoCMbT7yVKuS8C2vOc"
     }
   ],
   
