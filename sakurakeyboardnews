@@ -1,0 +1,71 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/8366004169",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/1002503557",
+      "main_ads_natives":"ca-app-pub-5496097028992857/5739840822",
+      "backup_ads_natives":"be24bc48ea95e891",
+      "backup_ads_banner":"d41f51d6f8c41fbc",
+      "backup_ads_intertitial":"5362c21dae1d9a5a",
+      "open_ads_admob":"ca-app-pub-5496097028992857/4426759155",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial":3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_1.jpg"
+    }, 
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_2.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_3.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_4.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_5.jpg"
+    }, 
+    {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_6.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_7.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_8.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_9.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_10.png"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_10.png"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_10.png"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_10.png"
+    }
+  ]
+
+
+}
