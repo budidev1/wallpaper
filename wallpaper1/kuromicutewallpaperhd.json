@@ -3,15 +3,15 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-5496097028992857/4924427840",
-      "main_ads_intertitial":"ca-app-pub-5496097028992857/9043119338",
-      "main_ads_natives":"ca-app-pub-5496097028992857/6364985106",
-      "main_ads_rewards":"ca-app-pub-5496097028992857/5312538138",
-      "backup_ads_natives":"386a36c8dfd7f428",
-      "backup_ads_banner":"bc5df9fbd9ad4d41",
-      "backup_ads_intertitial":"b54d0b0b3d09ff94",
-      "backup_ads_rewards":"14b208abe6c23bd6",
-      "open_ads_admob":"ca-app-pub-5496097028992857/3738821761",
+      "main_ads_banner": "ca-app-pub-5496097028992857/7232807310",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/3779226586",
+      "main_ads_natives":"ca-app-pub-5496097028992857/8019275371",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/1980480637",
+      "backup_ads_natives":"95ecc86af83781d1",
+      "backup_ads_banner":"4dc7594c2a5c6a00",
+      "backup_ads_intertitial":"cb963fe97aa329be",
+      "backup_ads_rewards":"fb92efb2f28fb0f2",
+      "open_ads_admob":"ca-app-pub-5496097028992857/6213818230",
       "open_ads_alien":"",
       "open_ads_max":"1",
       "on_off_native_listview":"",
@@ -29,7 +29,7 @@
     }
   ],
   "More":
-   [
+  [
     {
       "id":1,
       "title":"tiger",
@@ -107,126 +107,6 @@
       "title":"Nature",
       "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
       "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
-    },
-    {
-      "id":14,
-      "title":"Classic",
-      "image":"https://play-lh.googleusercontent.com/_XZ8itVdqqWCUaQe8_KB20ZpVMCW_ymtMmxYn3IzNwQKsGqopyjX1uiFpyOedUoNYQs=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Classic"
-    },
-    {
-      "id":15,
-      "title":"Ferrari",
-      "image":"https://play-lh.googleusercontent.com/XkFdsoy7iwIDf2CZhrOsrm3_NtORW-17YFbNyq4y32cuSWnCqrwL_jfGovoWoJoQb_g=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ferrari"
-    },
-    {
-      "id":16,
-      "title":"Lamborghini",
-      "image":"https://play-lh.googleusercontent.com/GHjdf64QYTNR-fz_7tpmsCUv7dkDaJx1IkVW5tlwRj4X4wRhhCMWFWjXcXUFmbE6YhTZ=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lamborghini"
-    },
-    {
-      "id":17,
-      "title":"Fantasy",
-      "image":"https://play-lh.googleusercontent.com/A7uk-C6y8cuzSU7GogdDi-Newr6SbRuE8Nf3kNYDzC9jXDYn7hikv5asEXPcX6QsCg=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Fantasy"
-    },
-    {
-      "id":18,
-      "title":"Autumn",
-      "image":"https://play-lh.googleusercontent.com/fcjVOdYf6URo-Leldl5F3h1FlhOMU79Oz6Qxy9QYa_6HkwqsxuaP2x70w5qMWb-sYKjt=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Ghosts"
-    },
-    {
-      "id":19,
-      "title":"Lion",
-      "image":"https://play-lh.googleusercontent.com/7g_bZ-Ls9DFCFb4ZzGliGEHQOwiQd-7reK26Vz2exF-5eYgeBWx1_xpooLagyscYtHQ=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Lion"
-    },
-    {
-      "id":20,
-      "title":"Love and Hearts",
-      "image":"https://play-lh.googleusercontent.com/ONOZ_a_xPYBOJR9_V5zoQSGBvnpcOPw6Y4xAZs7i406FrECUQBaaNpQmrRwSpXghMg=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.LoveandHearts"
-    },
-    {
-      "id":21,
-      "title":"Teal White Theme",
-      "image":"https://play-lh.googleusercontent.com/q4VyIBUASJCaRDY89lc6lZIUX-lvIjQr-I0LU1X4F_iMgPfHAHAhlmzC7X0j1USP8HjX=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.TealWhite"
-    },
-    {
-      "id":22,
-      "title":"black Theme",
-      "image":"https://play-lh.googleusercontent.com/TzAfi82htL1qD3pE8d_bWB-DEUstiUKJBebR78i70vElORJR70ZgpHbR3o8135KOCg=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.blacktheme"
-    },
-    {
-      "id":23,
-      "title":"Lavender Light",
-      "image":"https://play-lh.googleusercontent.com/xK7hT9ptYW0zrYM9eBjGua6EXBue5jQ-WSxJUba3immwk9PBdMWMck6rVvq_4gV9bns=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.LavenderLight"
-    },
-    {
-      "id":24,
-      "title":"Violet Theme",
-      "image":"https://play-lh.googleusercontent.com/Onmtz71AmBzrpyrE_q_5WOsvrM-M-hC4Loc1H5EXsBLJ8Z8FrVxQ7QXz_Xd6-8WtJQ=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.violet"
-    },
-    {
-      "id":25,
-      "title":"Ocean Theme",
-      "image":"https://play-lh.googleusercontent.com/Hgwn_zuyvIxhfBHAY3AoOuadjlV3wCfYe0eoOvR5mg-eBarjoWBdbXEyqCHORtl9iJk=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.OceanTheme"
-    },
-    {
-      "id":26,
-      "title":"Paradise Theme",
-      "image":"https://play-lh.googleusercontent.com/fyL6RhgH38wBQ-H2LpMrNG4qHRQlBD935eIEi_0VQntOpjVFBwxRxYMbtE9EtTJTdn6L=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.sakuraschoolsimulator"
-    },
-    {
-      "id":27,
-      "title":"Sakura",
-      "image":"https://play-lh.googleusercontent.com/BmKcfb6uqB0ny3jM542tFU_fZ4g9vmj2U-W5wpSAcOuFLY_k7PbOo537QbUJi0OC7a-J=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Paradise"
-    },
-    {
-      "id":28,
-      "title":"Colorful",
-      "image":"https://play-lh.googleusercontent.com/qk0mfgZgfRAfe43ktXPoMkVms64Ppg1KCTAvHRZpp2uEStg-S1kGht4zGB4wmTDc8Pw=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.colorful"
-    },
-    {
-      "id":29,
-      "title":"Wallpaper Amazing Themes-Full",
-      "image":"https://play-lh.googleusercontent.com/g7zMYf1XFCLa8yrzlp3Hw5CvrMCzB2igWQBnfNNUDyq-bNBWuegzI8uPZbX9hmgp8jk=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.AmazingFullThemeHDWallpaper"
-    },
-    {
-      "id":30,
-      "title":"Galaxy",
-      "image":"https://play-lh.googleusercontent.com/q0dsYAeHXES_QG2IQncNVKRdq50z6dt6ej0S98oR93OVRhTg16GTHlfolHWC0YHQgg=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.Galaxy"
-    },
-    {
-      "id":31,
-      "title":"Keyboard Theme",
-      "image":"https://play-lh.googleusercontent.com/ZuW9vvWbBbVpTxoTjW9w9_Z8D3-4Mj95rm4yy7856crL-4iPEc_8vDG3NzRwWj1bFn0=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.alienkeyboard"
-    },
-    {
-      "id":32,
-      "title":"Boca Toca",
-      "image":"https://play-lh.googleusercontent.com/UnGgZlLkNqpmxgbFNMyrN_iDZVIRrdUN7I1L6u1Pd714avzNyzJmOvQu-AVgZ_jd0w=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.bocatoca"
-    },
-    {
-      "id":33,
-      "title":"Rainbow blue",
-      "image":"https://play-lh.googleusercontent.com/ZWK6hOseEH2cjku07Nfe2DJ2uK7pPQZsbAXwh7N9tnmwHNl0BwR8n6TxN50HFmdBNw=w480-h960-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.budidev.RainbowBlue"
     }
   ],
 
