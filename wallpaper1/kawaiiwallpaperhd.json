@@ -1,0 +1,341 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5496097028992857/7232807310",
+      "main_ads_intertitial":"ca-app-pub-5496097028992857/3779226586",
+      "main_ads_natives":"ca-app-pub-5496097028992857/8019275371",
+      "main_ads_rewards":"ca-app-pub-5496097028992857/1980480637",
+      "backup_ads_natives":"95ecc86af83781d1",
+      "backup_ads_banner":"4dc7594c2a5c6a00",
+      "backup_ads_intertitial":"cb963fe97aa329be",
+      "backup_ads_rewards":"fb92efb2f28fb0f2",
+      "open_ads_admob":"ca-app-pub-5496097028992857/6213818230",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"GAIVEOwWS-LVSuSGlIhDX42Ce_WzKt1ExFkfPPNLk3fBxND6XrW0fO1wIp3KC9b4xOtA1_fLpD6KGo_7U7Mr4S",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"tiger",
+      "image":"https://play-lh.googleusercontent.com/GJFbNxYh9JZQ2h9VP2wWeXRFhljyl25FcbmGlp36iQzYHWEehQnQ1pgIgWNa6tsbkro=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.tigerwallpaper"
+    },
+    {
+      "id":2,
+      "title":"animals",
+      "image":"https://play-lh.googleusercontent.com/N3fqHTVf3V36F5axPeUOaMD38gfsOCCO2u2JD-LrIE5u8bpYZw9P-KEajTvdWXzxWac=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimals"
+    },
+    {
+      "id":3,
+      "title":"cat",
+      "image":"https://play-lh.googleusercontent.com/jMziyM5w9qQz3mbC0RNo4Wy5oXLzbtlJC1fRx22pHiK4pPv_n8Ed-vKmsZBr9zmfFuk=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.catwallpaper"
+    },
+    {
+      "id":4,
+      "title":"Anime",
+      "image":"https://play-lh.googleusercontent.com/_al74YHYp_m23RMEBoPgSpt9oq7JNwVORDunsPobkIcJwehdoad5cavdZiZN_Bey_aM=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperanimeHD"
+    },
+    {
+      "id":5,
+      "title":"Flower",
+      "image":"https://play-lh.googleusercontent.com/hYfYQEzJodn9TyWdazvZpNMF167hLUNaglaPynDqfZNA3l6DX0roW7vUtFo48V_hUSA=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperflower"
+    },
+    {
+      "id":6,
+      "title":"Home Luxury",
+      "image":"https://play-lh.googleusercontent.com/SXkXEFL1a-CAtdIj_QDyknMeLYIgNB52rSF9K9c4YpGXtIVtvC7U7v5_8c9FrW1dgaE=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.wallpaperhome"
+    },
+    {
+      "id":7,
+      "title":"Abstract",
+      "image":"https://play-lh.googleusercontent.com/HMLqoUu3Xhgx3PQhCON3AtrzmTO9ugs2K5mDUbAoMcoEc4dPOhJ2qYzD4DOmubfArmw=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.abstractwallpapers"
+    },
+    {
+      "id":8,
+      "title":"Astronomy",
+      "image":"https://play-lh.googleusercontent.com/5Aj3_5eBvNop4nRmtSbq67vXZgK8SI1DpKsk8-mr_PypZAVo6K0AN1rEnClYwviuDnQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.AstronomyWallpapers"
+    },
+    {
+      "id":9,
+      "title":"Natural Panorama",
+      "image":"https://play-lh.googleusercontent.com/GyJSNI3YhCs-ppio3EnWxY48aYVKGyZ9WKJGpxpnUj6CcmL3sFFg9XZoV8ekIaFHYo-3=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.Panorama"
+    },
+    {
+      "id":10,
+      "title":"Artistic Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/8DAlWqfWXu0pF1dkluIDRfc_OL4W4u83cNdOoZeSgiNC4mNThEy8iExdSbhs4SWWkcQ=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.ArtisticWallpaper"
+    },
+    {
+      "id":11,
+      "title":"Cute Girly",
+      "image":"https://play-lh.googleusercontent.com/CrYm3SqVy206vao_acrNFMwbmXKlamNf595rcvg8WDHtiqNLTzQd1qzNEJY0-4qk_gs=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteGirly"
+    },
+    {
+      "id":12,
+      "title":"Cute Dogs",
+      "image":"https://play-lh.googleusercontent.com/bbx80Sovp1kGsvuiY0gfnEL36JU469ohEVbZO0Uf4_plP4HTxj5qUnmv8HdRfLzcdOc=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.CuteDogWallpapers"
+    },
+    {
+      "id":13,
+      "title":"Nature",
+      "image":"https://play-lh.googleusercontent.com/1A_a8E6Oewx0QPhczlBAuh6bGWQ9gm9E0iuDxKlfEG__uAKZoGJBUnv2eNARRAem48M=w480-h960-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.budidev.NatureWallpapers"
+    }
+  ],
+
+    "Categories": [
+    {
+      "id": 1,
+      "name_category": "cute_kawaii",
+      "image": "https://i.pinimg.com/236x/6e/23/ae/6e23aeaba075677a22e844ee9b43da54.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+        "id": "731835008212738659",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/6e/23/ae/6e23aeaba075677a22e844ee9b43da54.jpg"
+    },
+    {
+        "id": "211174975484651",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/62/bc/85/62bc851745275630f2e2e588ed19b6cc.jpg"
+    },
+    {
+        "id": "697917273526455712",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/dd/dc/b0/dddcb043c09d2ede81e3f1368f60b82e.jpg"
+    },
+    {
+        "id": "486388828521874761",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/52/5d/24/525d24d3e16b55d35a77d84c855c19b1.jpg"
+    },
+    {
+        "id": "8796161763636775",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/2d/f9/fc/2df9fc0ed6ab8ecc89b944837c58fe77.jpg"
+    },
+    {
+        "id": "15199717486751338",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/e2/0c/83/e20c838ecd39d964411fe18c29209aa5.jpg"
+    },
+    {
+        "id": "331718328816279704",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/69/ce/a7/69cea7f3c0cb276a320d52434b4c64dd.jpg"
+    },
+    {
+        "id": "584271751671125559",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/e8/81/8c/e8818c588e840c321c042503573a7380.jpg"
+    },
+    {
+        "id": "520869513164860901",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/b9/bd/36/b9bd36466cc259f81037a3aa6faf91f0.jpg"
+    },
+    {
+        "id": "56998751526457588",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/f8/80/89/f88089eb4f760b0032d5b422fcdb775a.jpg"
+    },
+    {
+        "id": "297800594124929107",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/236x/91/00/4c/91004c58227caf3904859bb0b79c248f.jpg"
+    },
+    {
+        "id": "331296116352403890",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/d1/2a/37/d12a37e72b5b53840b23a5e454475b15.jpg"
+    },
+    {
+        "id": "331296116352403889",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/95/b4/8c/95b48c6a55bdd0edea7762aa489fa1eb.jpg"
+    },
+    {
+        "id": "331296116352403888",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/00/63/19/006319a61c265f6798577cd10280d251.jpg"
+    },
+    {
+        "id": "331296116352403887",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/eb/4d/40/eb4d40affe3ccfb9050f901cbc393787.jpg"
+    },
+    {
+        "id": "331296116352403886",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/64/fe/43/64fe432edb5c90c00d30dc69fe849d4f.jpg"
+    },
+    {
+        "id": "331296116352403885",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/fb/0b/ff/fb0bff59a044aae45fd792340634d05d.jpg"
+    },
+    {
+        "id": "331296116352403884",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/1c/36/98/1c3698e5175a2fc097d0ece09b43c0e3.jpg"
+    },
+    {
+        "id": "331296116352403883",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/1a/8c/b2/1a8cb251bc4225acb7faafa3d596dc16.jpg"
+    },
+    {
+        "id": "331296116352403882",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/2b/25/f6/2b25f6dc347535f5d58e96e63403a89c.jpg"
+    },
+    {
+        "id": "331296116352403881",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/39/c0/78/39c0786fa74ca3d9d09466633a27838c.jpg"
+    },
+    {
+        "id": "331296116352403880",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/ff/a9/85/ffa985373f7b76524101caedfd22ae5b.jpg"
+    },
+    {
+        "id": "331296116352403879",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/a7/db/71/a7db71bb83c051bf9f05953682aac70c.jpg"
+    },
+    {
+        "id": "331296116352403878",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/79/5a/e5/795ae5388e3e5c22a5b500f163d91ab9.jpg"
+    },
+    {
+        "id": "331296116352403877",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/e8/75/b1/e875b1ecb31ee838bb424a4ef7ea70e6.jpg"
+    },
+    {
+        "id": "331296116352403876",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/bd/d6/5a/bdd65a5768ceae2b4a4c04bf1f6a9dbe.png"
+    },
+    {
+        "id": "331296116352403875",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/4f/a0/66/4fa066861e0bb17f90634ef764c46162.jpg"
+    },
+    {
+        "id": "331296116352403874",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/5c/90/88/5c9088f2fe1ebadd7d67b695711419fa.jpg"
+    },
+    {
+        "id": "331296116352403873",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/a3/a5/65/a3a565552d19bf43f140cdaeb57556a0.jpg"
+    },
+    {
+        "id": "331296116352403872",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/14/3e/56/143e56fb303efd331cade97e60a95024.jpg"
+    },
+    {
+        "id": "331296116352403871",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/98/26/1d/98261d8a52e784771a4b84009a89fdf4.jpg"
+    },
+    {
+        "id": "331296116352403870",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/01/e2/3e/01e23e50eb85c606f78e0410cd68c363.jpg"
+    },
+    {
+        "id": "331296116352403869",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/e2/d8/99/e2d899a8ea451e64eb1cfb077d7cb70c.jpg"
+    },
+    {
+        "id": "331296116352403868",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/1b/7d/70/1b7d70ccf0105543439463803a92a6a4.jpg"
+    },
+    {
+        "id": "331296116352403867",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/43/65/f3/4365f386d89af73ffd2c2fad779463b2.jpg"
+    },
+    {
+        "id": "331296116352403866",
+        "name_category": "cute_kawaii",
+        "title": "cute kawaii",
+        "image": "https://i.pinimg.com/originals/8e/0d/b4/8e0db4bd8072b4d2953f0693de0e3013.jpg"
+    }
+]
+}
